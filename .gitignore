@@ -1,0 +1,7 @@
+# OpenClaw internal state
+.openclaw/
+
+# Backup files
+*.save
+*.save.*
+*.bak
