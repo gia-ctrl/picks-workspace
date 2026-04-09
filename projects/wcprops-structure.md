@@ -1,0 +1,71 @@
+# WCProps Site Structure Snapshot (2026-04-09)
+
+## Teams (existing folders under world-cup-2026/teams)
+
+- argentina
+- belgium
+- brazil
+- colombia
+- croatia
+- england
+- france
+- germany
+- japan
+- morocco
+- netherlands
+- portugal
+- spain
+- switzerland
+- uruguay
+- usa
+
+## Players (existing folders under world-cup-2026/players)
+
+- alexis-mac-allister
+- alisson
+- antoine-griezmann
+- antonio-rudiger
+- aurelien-tchouameni
+- bernardo-silva
+- bruno-fernandes
+- bruno-guimaraes
+- bukayo-saka
+- christian-pulisic
+- cristiano-ronaldo
+- cristian-romero
+- dani-olmo
+- declan-rice
+- diogo-costa
+- emiliano-martinez
+- enzo-fernandez
+- florian-wirtz
+- gio-reyna
+- harry-kane
+- jamal-musiala
+- joshua-kimmich
+- jude-bellingham
+- julian-alvarez
+- kai-havertz
+- kylian-mbappe
+- lamine-yamal
+- lionel-messi
+- manuel-neuer
+- marquinhos
+- mike-maignan
+- nico-williams
+- ousmane-dembele
+- pedri
+- phil-foden
+- rafael-leao
+- raphinha
+- rodri
+- rodrygo
+- ruben-dias
+- tim-weah
+- trent-alexander-arnold
+- tyler-adams
+- unai-simon
+- vinicius-junior
+- weston-mckennie
+- william-saliba
+- yunus-musah
