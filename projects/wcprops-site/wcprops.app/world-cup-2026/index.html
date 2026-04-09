@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Cup 2026 Predictions, Player Props & Picks</title>
+  <meta name="description" content="World Cup 2026 predictions, player props, and picks. 48 teams, 100+ players, real stats. Player props platform for FIFA World Cup 2026.">
+  <link rel="canonical" href="index.html">
+
+  <meta property="og:title" content="World Cup 2026 Predictions & Player Props">
+  <meta property="og:description" content="Player props and predictions for FIFA World Cup 2026. 48 teams. 100+ players. Real stats.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "World Cup 2026 Predictions & Player Props",
+    "url": "https://wcprops.app/world-cup-2026/",
+    "about": {
+      "@type": "SportsEvent",
+      "name": "2026 FIFA World Cup",
+      "startDate": "2026-06-11",
+      "endDate": "2026-07-19",
+      "location": { "@type": "Place", "name": "United States, Canada, Mexico" }
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "When does the 2026 World Cup start?",
+        "acceptedAnswer": { "@type": "Answer", "text": "The 2026 FIFA World Cup kicks off on June 11, 2026 at MetLife Stadium in New Jersey, USA. The final is July 19, 2026." }
+      },
+      {
+        "@type": "Question",
+        "name": "How many teams are in the 2026 World Cup?",
+        "acceptedAnswer": { "@type": "Answer", "text": "48 teams, expanded from 32, making it the largest FIFA World Cup in history." }
+      },
+      {
+        "@type": "Question",
+        "name": "What are player props?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Player props are predictions on individual player performance: goals, assists, cards, shots on target. Player props let you predict individual performance using real data — goals, assists, shots, cards." }
+      },
+      {
+        "@type": "Question",
+        "name": "Who are the favorites to win the 2026 World Cup?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Top favorites include Argentina (defending champions), France, England, Brazil, Spain, and host nation USA." }
+      }
+    ]
+  }
+  </script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #f5f3ef;
+      --surface: #ffffff;
+      --border: #e8e6e1;
+      --text: #1a1a1a;
+      --text-secondary: #545454;
+      --text-tertiary: #8c8c8c;
+      --accent: #00b894;
+      --accent-dark: #009975;
+      --accent-light: #e6f9f3;
+      --tag-bg: #f0eeeb;
+      --shadow: 0 1px 3px rgba(0,0,0,0.04);
+      --shadow-hover: 0 4px 12px rgba(0,0,0,0.06);
+      --radius: 20px;
+      --radius-sm: 14px;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow);
+    }
+    .nav-logo { font-size: 1.1rem; font-weight: 800; color: var(--text); text-decoration: none; }
+    .nav-logo span { color: var(--accent); }
+    .nav-links { display: flex; gap: 1.5rem; list-style: none; }
+    .nav-links a { color: var(--text-secondary); text-decoration: none; font-size: 0.85rem; font-weight: 500; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* Hero */
+    .hero {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 5rem 2rem 3rem;
+      text-align: center;
+    }
+    .hero-tag {
+      display: inline-block;
+      background: var(--accent-light);
+      color: var(--accent-dark);
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.3rem 0.85rem;
+      border-radius: 20px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin-bottom: 1.5rem;
+    }
+    .hero h1 {
+      font-size: 4.5rem;
+      font-weight: 900;
+      letter-spacing: -3px;
+      line-height: 1.0;
+      margin-bottom: 1.2rem;
+    }
+    .hero h1 .green { color: var(--accent); font-style: italic; }
+    .hero .subtitle {
+      font-size: 1.15rem;
+      color: var(--text-secondary);
+      max-width: 550px;
+      margin: 0 auto 2rem;
+      line-height: 1.7;
+    }
+    .hero-cta {
+      display: inline-block;
+      background: var(--accent);
+      color: white;
+      padding: 0.8rem 2.5rem;
+      border-radius: 50px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      text-decoration: none;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .hero-cta:hover { transform: scale(1.03); box-shadow: 0 4px 15px rgba(0,184,148,0.3); }
+
+    /* Countdown */
+    .countdown-row {
+      display: flex;
+      justify-content: center;
+      gap: 0.3rem;
+      margin: 2rem 0;
+      align-items: baseline;
+    }
+    .cd-item {
+      text-align: center;
+      padding: 0 0.5rem;
+    }
+    .cd-num { font-size: 2.5rem; font-weight: 900; letter-spacing: -2px; }
+    .cd-sep { font-size: 2rem; font-weight: 300; color: var(--text-tertiary); padding: 0 0.2rem; }
+    .cd-label { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 2px; color: var(--text-tertiary); font-weight: 600; }
+
+    .container { max-width: 900px; margin: 0 auto; padding: 0 2rem; }
+
+    /* Section */
+    .section-title {
+      font-size: 2rem;
+      font-weight: 900;
+      letter-spacing: -1px;
+      margin: 4rem 0 0.3rem;
+      display: block;
+    }
+    .section-sub {
+      color: var(--text-tertiary);
+      font-size: 0.9rem;
+      margin-bottom: 1.2rem;
+    }
+
+    /* Teams Grid */
+    .teams-grid {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+      overflow-x: auto;
+      padding-bottom: 0.5rem;
+      scrollbar-width: none;
+    }
+    .teams-grid::-webkit-scrollbar { display: none; }
+    .team-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.2rem;
+      text-align: center;
+      text-decoration: none;
+      color: var(--text);
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.2s, transform 0.15s;
+      flex-shrink: 0;
+      min-width: 110px;
+    }
+    .team-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+    .team-flag { font-size: 1.8rem; margin-bottom: 0.3rem; }
+    .team-name { font-weight: 700; font-size: 0.85rem; }
+    .team-meta { font-size: 0.7rem; color: var(--text-tertiary); margin-top: 0.15rem; }
+    .team-tag {
+      display: inline-block;
+      background: var(--accent-light);
+      color: var(--accent-dark);
+      font-size: 0.55rem;
+      font-weight: 700;
+      padding: 0.1rem 0.4rem;
+      border-radius: 10px;
+      margin-top: 0.3rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Players List */
+    .players-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+      margin-bottom: 2rem;
+    }
+    .player-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.2rem;
+      text-decoration: none;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.2s, transform 0.15s;
+    }
+    .player-thumb-sm {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: top;
+      border: 2px solid var(--border);
+      flex-shrink: 0;
+    }
+    .player-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-1px); }
+    .player-rank {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--text-tertiary);
+      min-width: 28px;
+    }
+    .player-card .name { font-weight: 700; font-size: 0.9rem; }
+    .player-card .meta { font-size: 0.75rem; color: var(--text-secondary); }
+    .player-card .prop {
+      font-size: 0.75rem;
+      color: var(--accent-dark);
+      font-weight: 600;
+      margin-top: 0.2rem;
+    }
+
+    /* Features */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.75rem;
+      margin-bottom: 2rem;
+    }
+    .feature-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2rem;
+      box-shadow: var(--shadow);
+    }
+    .feature-card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+    .feature-card p {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      line-height: 1.6;
+    }
+
+    /* FAQ */
+    .faq-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.2rem 1.5rem;
+      margin-bottom: 0.5rem;
+      box-shadow: var(--shadow);
+    }
+    .faq-q { font-weight: 700; font-size: 0.95rem; margin-bottom: 0.4rem; }
+    .faq-a { color: var(--text-secondary); font-size: 0.85rem; line-height: 1.6; }
+    .faq-a strong { color: var(--text); }
+
+    /* All Teams Grid */
+    .all-teams {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+    }
+    .all-teams a {
+      display: block;
+      padding: 0.6rem 0.8rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 500;
+      text-align: center;
+      transition: box-shadow 0.15s;
+      box-shadow: var(--shadow);
+    }
+    .all-teams a:hover { box-shadow: var(--shadow-hover); }
+
+    /* CTA */
+    .cta-section {
+      background: var(--accent);
+      border-radius: var(--radius);
+      padding: 3rem 2rem;
+      text-align: center;
+      margin: 2rem 0 3rem;
+      box-shadow: var(--shadow-hover);
+    }
+    .cta-section h2 { font-size: 1.8rem; font-weight: 800; color: white; margin-bottom: 0.5rem; letter-spacing: -0.5px; }
+    .cta-section p { color: rgba(255,255,255,0.85); font-size: 1rem; margin-bottom: 1.5rem; }
+    .cta-section .btn {
+      display: inline-block;
+      background: white;
+      color: var(--accent-dark);
+      padding: 0.8rem 2.5rem;
+      border-radius: 50px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      text-decoration: none;
+      transition: transform 0.15s;
+    }
+    .cta-section .btn:hover { transform: scale(1.03); }
+
+    footer {
+      background: linear-gradient(180deg, var(--accent) 0%, #1a1a1a 40%);
+      padding: 4rem 2rem 2rem;
+      text-align: center;
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.6);
+      margin-top: 2rem;
+    }
+    footer a { color: rgba(255,255,255,0.8); text-decoration: none; }
+    footer a:hover { color: white; }
+
+    @media (max-width: 640px) {
+      .hero h1 { font-size: 3rem; }
+      .hero { padding: 3rem 1rem 2rem; }
+      .container { padding: 0 1rem; }
+      .players-list { grid-template-columns: 1fr; }
+      .features-grid { grid-template-columns: 1fr; }
+      .nav-links { display: none; }
+      .countdown-row { gap: 0.2rem; }
+      .cd-num { font-size: 1.8rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="https://wcprops.app/" class="nav-logo"><span>wc</span>props</a>
+    <ul class="nav-links">
+      <li><a href="https://wcprops.app/world-cup-2026/teams/">Teams</a></li>
+      <li><a href="https://wcprops.app/world-cup-2026/players/">Players</a></li>
+      <li><a href="https://wcprops.app/world-cup-2026/predictions/">Predictions</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-tag">Player Props</div>
+    <h1>WORLD CUP<br><span class="green">players props</span></h1>
+    <p class="subtitle">48 teams. 104 matches. Real stats. Transparent markets. The World Cup experience, reimagined.</p>
+
+    <p style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.3rem;">Kickoff: June 11, 2026 · MetLife Stadium</p>
+    <div class="countdown-row">
+      <div class="cd-item"><div class="cd-num" id="days">--</div><div class="cd-label">days</div></div>
+      <div class="cd-sep">:</div>
+      <div class="cd-item"><div class="cd-num" id="hours">--</div><div class="cd-label">hrs</div></div>
+      <div class="cd-sep">:</div>
+      <div class="cd-item"><div class="cd-num" id="mins">--</div><div class="cd-label">min</div></div>
+      <div class="cd-sep">:</div>
+      <div class="cd-item"><div class="cd-num" id="secs">--</div><div class="cd-label">sec</div></div>
+    </div>
+    <script>
+      const t=new Date('2026-06-11T20:00:00Z').getTime();
+      function u(){const n=Date.now(),d=t-n;if(d<=0)return;
+      document.getElementById('days').textContent=Math.floor(d/864e5);
+      document.getElementById('hours').textContent=Math.floor((d%864e5)/36e5);
+      document.getElementById('mins').textContent=Math.floor((d%36e5)/6e4);
+      document.getElementById('secs').textContent=Math.floor((d%6e4)/1e3);}
+      u();setInterval(u,1000);
+    </script>
+
+    <a href="index.html#teams" class="hero-cta">Explore Teams & Props</a>
+  </section>
+
+  <div class="container">
+
+    <!-- Featured Teams -->
+    <div id="teams">
+      <div class="section-title">Featured Teams</div>
+      <p class="section-sub">Tournament favorites and dark horses</p>
+    </div>
+    <div class="teams-grid">
+      <a href="teams/usa/index.html" class="team-card">
+        <div class="team-flag">🇺🇸</div>
+        <div class="team-name">USA</div>
+        <div class="team-meta">FIFA #14</div>
+        <div class="team-tag">Co-Host</div>
+      </a>
+      <a href="teams/argentina/index.html" class="team-card">
+        <div class="team-flag">🇦🇷</div>
+        <div class="team-name">Argentina</div>
+        <div class="team-meta">FIFA #1</div>
+        <div class="team-tag">Defending</div>
+      </a>
+      <a href="teams/france/index.html" class="team-card">
+        <div class="team-flag">🇫🇷</div>
+        <div class="team-name">France</div>
+        <div class="team-meta">FIFA #2</div>
+      </a>
+      <a href="teams/england/index.html" class="team-card">
+        <div class="team-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</div>
+        <div class="team-name">England</div>
+        <div class="team-meta">FIFA #4</div>
+      </a>
+      <a href="teams/brazil/index.html" class="team-card">
+        <div class="team-flag">🇧🇷</div>
+        <div class="team-name">Brazil</div>
+        <div class="team-meta">FIFA #5</div>
+      </a>
+      <a href="teams/spain/index.html" class="team-card">
+        <div class="team-flag">🇪🇸</div>
+        <div class="team-name">Spain</div>
+        <div class="team-meta">FIFA #3</div>
+      </a>
+      <a href="teams/germany/index.html" class="team-card">
+        <div class="team-flag">🇩🇪</div>
+        <div class="team-name">Germany</div>
+        <div class="team-meta">FIFA #11</div>
+      </a>
+      <a href="teams/portugal/index.html" class="team-card">
+        <div class="team-flag">🇵🇹</div>
+        <div class="team-name">Portugal</div>
+        <div class="team-meta">FIFA #6</div>
+      </a>
+      <a href="teams/netherlands/index.html" class="team-card">
+        <div class="team-flag">🇳🇱</div>
+        <div class="team-name">Netherlands</div>
+        <div class="team-meta">FIFA #7</div>
+      </a>
+      <a href="teams/belgium/index.html" class="team-card">
+        <div class="team-flag">🇧🇪</div>
+        <div class="team-name">Belgium</div>
+        <div class="team-meta">FIFA #8</div>
+      </a>
+      <a href="https://wcprops.app/world-cup-2026/teams/mexico/" class="team-card">
+        <div class="team-flag">🇲🇽</div>
+        <div class="team-name">Mexico</div>
+        <div class="team-meta">FIFA #15</div>
+        <div class="team-tag">Co-Host</div>
+      </a>
+      <a href="https://wcprops.app/world-cup-2026/teams/canada/" class="team-card">
+        <div class="team-flag">🇨🇦</div>
+        <div class="team-name">Canada</div>
+        <div class="team-meta">FIFA #43</div>
+        <div class="team-tag">Co-Host</div>
+      </a>
+    </div>
+
+    <!-- Live Market -->
+    <div class="section-title">Live Market</div>
+    <p class="section-sub">Real-time data from Polymarket · $323M+ volume</p>
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.5rem;box-shadow:var(--shadow);margin-bottom:2rem;">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;flex-wrap:wrap;gap:0.5rem;">
+        <div style="font-weight:700;font-size:1rem;">2026 FIFA World Cup Winner <span style="font-weight:400;font-size:0.8rem;color:var(--text-tertiary);">· $323M Vol · Ends July 2026</span></div>
+        <a href="https://polymarket.com/event/2026-fifa-world-cup-winner-595" target="_blank" rel="noopener" style="font-size:0.75rem;color:var(--accent-dark);font-weight:600;text-decoration:none;">Polymarket →</a>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:0.5rem;">
+        <div style="background:var(--accent-light);border:1.5px solid var(--accent);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇪🇸 Spain</div>
+          <div style="font-size:1.2rem;font-weight:800;color:var(--accent-dark);">15%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇦🇷 Argentina</div>
+          <div style="font-size:1.2rem;font-weight:800;">14%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</div>
+          <div style="font-size:1.2rem;font-weight:800;">13%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇫🇷 France</div>
+          <div style="font-size:1.2rem;font-weight:800;">12%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇧🇷 Brazil</div>
+          <div style="font-size:1.2rem;font-weight:800;">10%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇩🇪 Germany</div>
+          <div style="font-size:1.2rem;font-weight:800;">9%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇺🇸 USA</div>
+          <div style="font-size:1.2rem;font-weight:800;">5%</div>
+        </div>
+        <div style="background:var(--tag-bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.6rem;text-align:center;">
+          <div style="font-size:0.75rem;color:var(--text-secondary);">🇵🇹 Portugal</div>
+          <div style="font-size:1.2rem;font-weight:800;">5%</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Coming Soon -->
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.5rem;box-shadow:var(--shadow);margin-bottom:2rem;">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;">
+        <div>
+          <div style="font-weight:700;font-size:1rem;">Player Props</div>
+          <div style="font-size:0.75rem;color:var(--text-tertiary);">Coming soon · Expected May 2026</div>
+        </div>
+        <span style="font-size:0.7rem;font-weight:700;background:var(--tag-bg);color:var(--text-tertiary);padding:0.25rem 0.7rem;border-radius:20px;text-transform:uppercase;letter-spacing:1px;">Coming Soon</span>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.5rem;opacity:0.5;">
+        <div style="padding:0.6rem 0.8rem;border:1px solid var(--border);border-radius:var(--radius-sm);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:0.85rem;">Pulisic: Tournament Goals</span>
+          <span style="font-size:0.8rem;border:1.5px solid var(--border);padding:0.2rem 0.6rem;border-radius:20px;">O/U 2.5</span>
+        </div>
+        <div style="padding:0.6rem 0.8rem;border:1px solid var(--border);border-radius:var(--radius-sm);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:0.85rem;">Mbappe: Golden Boot</span>
+          <span style="font-size:0.8rem;border:1.5px solid var(--border);padding:0.2rem 0.6rem;border-radius:20px;">Yes / No</span>
+        </div>
+        <div style="padding:0.6rem 0.8rem;border:1px solid var(--border);border-radius:var(--radius-sm);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:0.85rem;">Messi: Goals + Assists</span>
+          <span style="font-size:0.8rem;border:1.5px solid var(--border);padding:0.2rem 0.6rem;border-radius:20px;">O/U 4.5</span>
+        </div>
+        <div style="padding:0.6rem 0.8rem;border:1px solid var(--border);border-radius:var(--radius-sm);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:0.85rem;">Haaland: Tournament Goals</span>
+          <span style="font-size:0.8rem;border:1.5px solid var(--border);padding:0.2rem 0.6rem;border-radius:20px;">O/U 3.5</span>
+        </div>
+      </div>
+      <!-- Email Capture -->
+      <div style="margin-top:1.2rem;padding-top:1.2rem;border-top:1px solid var(--border);text-align:center;">
+        <div style="font-size:0.85rem;font-weight:600;margin-bottom:0.6rem;">Get notified when player props go live</div>
+        <form id="notify-form" style="display:flex;gap:0.5rem;max-width:400px;margin:0 auto;">
+          <input type="email" id="notify-email" placeholder="your@email.com" required style="flex:1;padding:0.6rem 1rem;border:1.5px solid var(--border);border-radius:50px;font-size:0.85rem;font-family:inherit;outline:none;transition:border-color 0.15s;" onfocus="this.style.borderColor='#00b894'" onblur="this.style.borderColor='#ebebeb'">
+          <button type="submit" style="background:var(--accent);color:white;border:none;padding:0.6rem 1.5rem;border-radius:50px;font-size:0.85rem;font-weight:700;cursor:pointer;font-family:inherit;transition:opacity 0.15s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">Notify Me</button>
+        </form>
+        <div id="notify-success" style="display:none;margin-top:0.8rem;font-size:0.85rem;color:var(--accent-dark);font-weight:600;"></div>
+      </div>
+    </div>
+
+    <script>
+    document.getElementById('notify-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      var email = document.getElementById('notify-email').value;
+      var btn = this.querySelector('button');
+      btn.textContent = '...';
+      btn.disabled = true;
+      fetch('https://formspree.io/f/mbdzpyjb', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
+        body: JSON.stringify({email: email, source: 'wcprops.app', page: window.location.pathname})
+      }).then(function(r) {
+        document.getElementById('notify-form').style.display = 'none';
+        document.getElementById('notify-success').style.display = 'block';
+        document.getElementById('notify-success').textContent = 'You\'re on the list! We\'ll notify you when player props go live.';
+      }).catch(function() {
+        btn.textContent = 'Notify Me';
+        btn.disabled = false;
+        alert('Something went wrong. Please try again.');
+      });
+    });
+    </script>
+
+    <!-- Players -->
+    <div class="section-title">Top Players</div>
+    <p class="section-sub">Most searched players for World Cup 2026 props</p>
+    <div class="players-list">
+      <a href="players/christian-pulisic/index.html" class="player-card">
+        <img src="players/christian-pulisic/pulisic.jpg" alt="Christian Pulisic" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Christian Pulisic</div>
+          <div class="meta">USA · AC Milan · Winger</div>
+          <div class="prop">Tournament Goals O/U 2.5</div>
+        </div>
+      </a>
+      <a href="players/lionel-messi/index.html" class="player-card">
+        <img src="assets/messi.jpg" alt="Lionel Messi" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Lionel Messi</div>
+          <div class="meta">Argentina · Inter Miami · Forward</div>
+          <div class="prop">Tournament Goals O/U 2.5</div>
+        </div>
+      </a>
+      <a href="players/kylian-mbappe/index.html" class="player-card">
+        <img src="assets/mbappe.jpg" alt="Kylian Mbappe" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Kylian Mbappe</div>
+          <div class="meta">France · Real Madrid · Forward</div>
+          <div class="prop">Golden Boot favorite</div>
+        </div>
+      </a>
+      <a href="https://wcprops.app/world-cup-2026/players/erling-haaland/" class="player-card">
+        <img src="assets/haaland.jpg" alt="Erling Haaland" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Erling Haaland</div>
+          <div class="meta">Norway · Man City · Striker</div>
+          <div class="prop">Tournament Goals O/U 3.5</div>
+        </div>
+      </a>
+      <a href="players/jude-bellingham/index.html" class="player-card">
+        <img src="assets/bellingham.jpg" alt="Jude Bellingham" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Jude Bellingham</div>
+          <div class="meta">England · Real Madrid · Mid</div>
+          <div class="prop">Goals + Assists O/U 4.5</div>
+        </div>
+      </a>
+      <a href="players/vinicius-junior/index.html" class="player-card">
+        <img src="assets/vinicius.jpg" alt="Vinicius Junior" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Vinicius Junior</div>
+          <div class="meta">Brazil · Real Madrid · Winger</div>
+          <div class="prop">Goals + Assists O/U 4.5</div>
+        </div>
+      </a>
+      <a href="players/lamine-yamal/index.html" class="player-card">
+        <img src="assets/yamal.jpg" alt="Lamine Yamal" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Lamine Yamal</div>
+          <div class="meta">Spain · Barcelona · Winger</div>
+          <div class="prop">Tournament Goals O/U 2.5</div>
+        </div>
+      </a>
+      <a href="players/harry-kane/index.html" class="player-card">
+        <img src="assets/kane.jpg" alt="Harry Kane" class="player-thumb-sm" width="44" height="44">
+        <div>
+          <div class="name">Harry Kane</div>
+          <div class="meta">England · Bayern · Striker</div>
+          <div class="prop">Golden Boot contender</div>
+        </div>
+      </a>
+    </div>
+
+    <!-- Why Player Props - Kalshi editorial style -->
+    <div style="margin:4rem 0;padding:3rem 0;border-top:1px solid var(--border);">
+      <div style="text-align:center;max-width:650px;margin:0 auto 3rem;">
+        <div style="font-size:3rem;font-weight:900;letter-spacing:-2px;line-height:1.05;">
+          You don't bet on games.<br>
+          <span style="color:var(--accent);font-style:italic;">You predict players.</span>
+        </div>
+        <p style="margin-top:1rem;font-size:1.05rem;color:var(--text-secondary);line-height:1.7;">
+          The World Cup isn't decided by teams. It's decided by moments. A Pulisic run. A Mbappe finish. A Messi assist. Player props let you make predictions on what matters.
+        </p>
+      </div>
+
+      <!-- Two column comparison -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:3rem;">
+        <div style="background:var(--surface);border:2px solid var(--accent);border-radius:var(--radius);padding:2rem;">
+          <div style="font-size:0.7rem;text-transform:uppercase;letter-spacing:2px;color:var(--accent-dark);font-weight:700;margin-bottom:1rem;">Player Props</div>
+          <div style="font-size:1.3rem;font-weight:800;letter-spacing:-0.5px;margin-bottom:1.2rem;">Use data. Predict performance.</div>
+          <div style="font-size:0.85rem;color:var(--text-secondary);line-height:2;">
+            Focus on individual player performance<br>
+            Goals, assists, shots, cards per player<br>
+            Based on data like xG, G/90, form, historical stats<br>
+            Sometimes offered as P2P markets<br>
+            Transparent and data-driven
+          </div>
+        </div>
+        <div style="background:var(--tag-bg);border-radius:var(--radius);padding:2rem;">
+          <div style="font-size:0.7rem;text-transform:uppercase;letter-spacing:2px;color:var(--text-tertiary);font-weight:700;margin-bottom:1rem;">Traditional Betting</div>
+          <div style="font-size:1.3rem;font-weight:800;letter-spacing:-0.5px;margin-bottom:1.2rem;color:var(--text-secondary);">Pick a winner. Hope for the best.</div>
+          <div style="font-size:0.85rem;color:var(--text-tertiary);line-height:2;">
+            Focus on match outcomes (win/lose/draw)<br>
+            Odds set by bookmakers<br>
+            Limited player-level analysis<br>
+            Users bet against the house<br>
+            Often restricted by geography
+          </div>
+        </div>
+      </div>
+
+      <!-- Stats row -->
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin-bottom:3rem;">
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:2rem;text-align:center;box-shadow:var(--shadow);">
+          <div style="font-size:3rem;font-weight:900;letter-spacing:-2px;color:var(--accent);">104</div>
+          <div style="font-size:0.85rem;color:var(--text-secondary);margin-top:0.3rem;">matches in the tournament</div>
+        </div>
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:2rem;text-align:center;box-shadow:var(--shadow);">
+          <div style="font-size:3rem;font-weight:900;letter-spacing:-2px;color:var(--accent);">736</div>
+          <div style="font-size:0.85rem;color:var(--text-secondary);margin-top:0.3rem;">players in the squad lists</div>
+        </div>
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:2rem;text-align:center;box-shadow:var(--shadow);">
+          <div style="font-size:3rem;font-weight:900;letter-spacing:-2px;color:var(--accent);">1000+</div>
+          <div style="font-size:0.85rem;color:var(--text-secondary);margin-top:0.3rem;">possible prop markets</div>
+        </div>
+      </div>
+
+      <!-- How it works -->
+      <div style="max-width:650px;margin:0 auto;">
+        <div style="font-size:1.8rem;font-weight:900;letter-spacing:-1px;margin-bottom:1.5rem;text-align:center;">How it works</div>
+        <div style="display:flex;flex-direction:column;gap:1rem;">
+          <div style="display:flex;gap:1rem;align-items:flex-start;">
+            <div style="background:var(--accent);color:white;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:0.85rem;flex-shrink:0;">1</div>
+            <div>
+              <div style="font-weight:700;font-size:0.95rem;">Research the player</div>
+              <div style="font-size:0.85rem;color:var(--text-secondary);line-height:1.6;">Check season stats, form, xG, historical World Cup data. Every player page has the numbers you need.</div>
+            </div>
+          </div>
+          <div style="display:flex;gap:1rem;align-items:flex-start;">
+            <div style="background:var(--accent);color:white;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:0.85rem;flex-shrink:0;">2</div>
+            <div>
+              <div style="font-weight:700;font-size:0.95rem;">Pick your prop</div>
+              <div style="font-size:0.85rem;color:var(--text-secondary);line-height:1.6;">Pulisic Over 2.5 goals? Mbappe to score in every group game? Bellingham 3+ assists? You decide.</div>
+            </div>
+          </div>
+          <div style="display:flex;gap:1rem;align-items:flex-start;">
+            <div style="background:var(--accent);color:white;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:0.85rem;flex-shrink:0;">3</div>
+            <div>
+              <div style="font-weight:700;font-size:0.95rem;">Enter the market</div>
+              <div style="font-size:0.85rem;color:var(--text-secondary);line-height:1.6;">P2P pools. No house edge. Your prediction goes into a transparent pool against other players.</div>
+            </div>
+          </div>
+          <div style="display:flex;gap:1rem;align-items:flex-start;">
+            <div style="background:var(--accent);color:white;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:0.85rem;flex-shrink:0;">4</div>
+            <div>
+              <div style="font-weight:700;font-size:0.95rem;">Results verified, payout automatic</div>
+              <div style="font-size:0.85rem;color:var(--text-secondary);line-height:1.6;">Oracle feeds real match data. Smart contract distributes winnings. No disputes, no delays.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Landscape -->
+    <div style="margin:4rem 0;padding:3rem 0;border-top:1px solid var(--border);">
+      <div style="font-size:2.5rem;font-weight:900;letter-spacing:-1.5px;line-height:1.1;margin-bottom:0.5rem;">The player props<br><span style="color:var(--accent);font-style:italic;">landscape.</span></div>
+      <p style="color:var(--text-secondary);font-size:1rem;margin-bottom:2rem;max-width:500px;line-height:1.6;">Player props is one of the fastest growing segments in sports. Here's who's building it.</p>
+      
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1px;background:var(--border);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;">
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">PrizePicks</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">Largest DFS props platform</div>
+          <div style="font-size:0.8rem;font-weight:600;">Over/under on player stats</div>
+        </div>
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">Underdog</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">Fantasy sports + pick'em</div>
+          <div style="font-size:0.8rem;font-weight:600;">Best ball + higher/lower props</div>
+        </div>
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">Betr</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">Micro-betting + props</div>
+          <div style="font-size:0.8rem;font-weight:600;">Live in-game player props</div>
+        </div>
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">Polymarket</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">On-chain prediction markets</div>
+          <div style="font-size:0.8rem;font-weight:600;">Event outcomes, $323M WC volume</div>
+        </div>
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">DraftKings Pick6</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">DFS giant's props product</div>
+          <div style="font-size:0.8rem;font-weight:600;">Salary-based player props</div>
+        </div>
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">Sleeper</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">Fantasy + pick'em platform</div>
+          <div style="font-size:0.8rem;font-weight:600;">Social fantasy with player props</div>
+        </div>
+        <div style="background:var(--surface);padding:1.5rem;">
+          <div style="font-size:1.1rem;font-weight:800;margin-bottom:0.3rem;">Picks</div>
+          <div style="font-size:0.8rem;color:var(--text-tertiary);margin-bottom:0.4rem;">On-chain player props</div>
+          <div style="font-size:0.8rem;font-weight:600;">Smart contract settlement, higher/lower picks</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- FAQ -->
+    <div class="section-title">FAQ</div>
+    <p class="section-sub"></p>
+    <div class="faq-item">
+      <div class="faq-q">When does the 2026 World Cup start?</div>
+      <div class="faq-a">The 2026 FIFA World Cup kicks off on <strong>June 11, 2026</strong> at MetLife Stadium in New Jersey. The final is <strong>July 19, 2026</strong> at the same venue.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How many teams are in the 2026 World Cup?</div>
+      <div class="faq-a"><strong>48 teams</strong>, expanded from 32, divided into 12 groups of 4. The largest FIFA World Cup in history.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">What are player props?</div>
+      <div class="faq-a">Predictions on individual player performance: <strong>goals, assists, cards, shots on target</strong>. Unlike match bets, props focus on what specific players will do. Player props let you use real data — stats, form, xG — to make smarter predictions on individual performance.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Who are the favorites to win?</div>
+      <div class="faq-a">Top favorites include <strong>Argentina</strong> (defending champions), <strong>France</strong>, <strong>England</strong>, <strong>Brazil</strong>, and host nation <strong>USA</strong>. Home advantage historically gives co-hosts a significant boost.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Where will the 2026 World Cup be played?</div>
+      <div class="faq-a">Co-hosted by <strong>USA, Canada, and Mexico</strong> across 16 venues including MetLife Stadium (NY/NJ), SoFi Stadium (LA), AT&T Stadium (Dallas), Estadio Azteca (Mexico City), and BMO Field (Toronto).</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How is Picks different from sportsbooks?</div>
+      <div class="faq-a">Player props platforms let you predict individual player performance instead of game outcomes. Markets are P2P — transparent odds, verifiable results, no house edge. You play against other users, not against the house.</div>
+    </div>
+
+    <!-- All Teams -->
+    <div class="section-title">All 48 Teams</div>
+    <p class="section-sub">Click any team for squad, stats, and props</p>
+    <div class="all-teams">
+      <a href="teams/usa/index.html">🇺🇸 USA</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/mexico/">🇲🇽 Mexico</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/canada/">🇨🇦 Canada</a>
+      <a href="teams/argentina/index.html">🇦🇷 Argentina</a>
+      <a href="teams/brazil/index.html">🇧🇷 Brazil</a>
+      <a href="teams/france/index.html">🇫🇷 France</a>
+      <a href="teams/england/index.html">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</a>
+      <a href="teams/spain/index.html">🇪🇸 Spain</a>
+      <a href="teams/germany/index.html">🇩🇪 Germany</a>
+      <a href="teams/portugal/index.html">🇵🇹 Portugal</a>
+      <a href="teams/netherlands/index.html">🇳🇱 Netherlands</a>
+      <a href="teams/belgium/index.html">🇧🇪 Belgium</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/italy/">🇮🇹 Italy</a>
+      <a href="teams/croatia/index.html">🇭🇷 Croatia</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/denmark/">🇩🇰 Denmark</a>
+      <a href="teams/switzerland/index.html">🇨🇭 Switzerland</a>
+      <a href="teams/uruguay/index.html">🇺🇾 Uruguay</a>
+      <a href="teams/colombia/index.html">🇨🇴 Colombia</a>
+      <a href="teams/japan/index.html">🇯🇵 Japan</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/south-korea/">🇰🇷 South Korea</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/australia/">🇦🇺 Australia</a>
+      <a href="teams/morocco/index.html">🇲🇦 Morocco</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/senegal/">🇸🇳 Senegal</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/nigeria/">🇳🇬 Nigeria</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/cameroon/">🇨🇲 Cameroon</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/ghana/">🇬🇭 Ghana</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/egypt/">🇪🇬 Egypt</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/iran/">🇮🇷 Iran</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/saudi-arabia/">🇸🇦 Saudi Arabia</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/qatar/">🇶🇦 Qatar</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/ecuador/">🇪🇨 Ecuador</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/paraguay/">🇵🇾 Paraguay</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/chile/">🇨🇱 Chile</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/peru/">🇵🇪 Peru</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/costa-rica/">🇨🇷 Costa Rica</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/jamaica/">🇯🇲 Jamaica</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/serbia/">🇷🇸 Serbia</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/poland/">🇵🇱 Poland</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/austria/">🇦🇹 Austria</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/ukraine/">🇺🇦 Ukraine</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/sweden/">🇸🇪 Sweden</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/norway/">🇳🇴 Norway</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/wales/">🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/tunisia/">🇹🇳 Tunisia</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/algeria/">🇩🇿 Algeria</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/china/">🇨🇳 China</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/new-zealand/">🇳🇿 New Zealand</a>
+      <a href="https://wcprops.app/world-cup-2026/teams/indonesia/">🇮🇩 Indonesia</a>
+    </div>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <h2>Ready to make your picks?</h2>
+      <p>Player props. Transparent markets. Data-driven predictions.</p>
+      <a href="https://polymarket.com/event/2026-fifa-world-cup-winner-595" class="btn" target="_blank" rel="noopener">Trade on Polymarket</a>
+    </section>
+
+  </div>
+
+  <footer>
+    <a href="index.html">World Cup 2026</a> · 
+    <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> · 
+    <a href="https://wcprops.app/world-cup-2026/players/">Players</a> · 
+    <a href="https://wcprops.app/world-cup-2026/predictions/">Predictions</a>
+    <p style="margin-top:0.5rem;">© 2026 WC Props · Stats from public sources · Not financial advice</p>
+  </footer>
+
+</body>
+</html>
