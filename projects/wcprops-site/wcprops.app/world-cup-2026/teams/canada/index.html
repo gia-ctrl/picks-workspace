@@ -4,63 +4,833 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Canada World Cup 2026 Player Props & Squad | WC Props</title>
-  <meta name="description" content="Canada World Cup 2026 player props, key players and squad outlook. Research goals, shots, assists and defensive props.">
-  <link rel="canonical" href="https://wcprops.app/world-cup-2026/teams/canada/">
+  <meta name="description" content="Canada World Cup 2026 player props, key players and squad outlook. Research goals, shots and assist props.">
+  <link rel="canonical" href="index.html">
+
+  <meta property="og:title" content="Canada · World Cup 2026 Squad & Player Props">
+  <meta property="og:description" content="Canada squad, predictions, and player props for the 2026 FIFA World Cup.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsTeam",
+    "name": "Canada National Football Team",
+    "alternateName": "Les Bleus",
+    "sport": "Soccer",
+    "memberOf": { "@type": "SportsOrganization", "name": "FIFA World Cup 2026" },
+    "coach": { "@type": "Person", "name": "Didier Deschamps" },
+    "athlete": [
+      { "@type": "Person", "name": "Kylian Mbappe" },
+      { "@type": "Person", "name": "Antoine Griezmann" },
+      { "@type": "Person", "name": "Ousmane Dembele" },
+      { "@type": "Person", "name": "Aurelien Tchouameni" },
+      { "@type": "Person", "name": "William Saliba" },
+      { "@type": "Person", "name": "Mike Maignan" }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "World Cup 2026", "item": "https://wcprops.app/world-cup-2026/" },
+      { "@type": "ListItem", "position": 2, "name": "Teams", "item": "https://wcprops.app/world-cup-2026/teams/" },
+      { "@type": "ListItem", "position": 3, "name": "France" }
+    ]
+  }
+  </script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
   <style>
-    body{font-family:Inter,Arial,sans-serif;background:#f7f7f8;color:#111;margin:0}
-    .wrap{max-width:900px;margin:0 auto;padding:24px}
-    .top{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e6e6e6;padding-bottom:12px;margin-bottom:20px}
-    .top a{text-decoration:none;color:#333;font-size:14px}
-    .hero{background:#fff;border:1px solid #e6e6e6;border-radius:16px;padding:22px;margin-bottom:18px}
-    .tag{display:inline-block;background:#e8faf4;color:#008e70;font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;text-transform:uppercase;letter-spacing:.6px}
-    h1{margin:10px 0 8px;font-size:40px}
-    .sub{color:#555;line-height:1.6}
-    .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}
-    .box{background:#fff;border:1px solid #e6e6e6;border-radius:12px;padding:12px}
-    .lbl{font-size:11px;color:#888;text-transform:uppercase;letter-spacing:.7px}.val{font-size:24px;font-weight:800}
-    h2{font-size:18px;margin:24px 0 10px}
-    .players{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
-    .p{background:#fff;border:1px solid #e6e6e6;border-radius:12px;padding:12px}
-    .n{font-weight:700}.m{font-size:13px;color:#666;margin-top:2px}.k{font-size:13px;color:#008e70;margin-top:6px;font-weight:600}
-    ul{background:#fff;border:1px solid #e6e6e6;border-radius:12px;padding:14px 18px}
-    li{margin:8px 0}
-    .cta{background:#00b894;color:#fff;border-radius:14px;padding:22px;margin-top:22px;text-align:center}
-    .cta a{display:inline-block;margin-top:10px;background:#fff;color:#00b894;padding:10px 18px;border-radius:999px;text-decoration:none;font-weight:700}
+    :root {
+      --bg: #f7f7f8;
+      --surface: #ffffff;
+      --border: #ebebeb;
+      --text: #1a1a1a;
+      --text-secondary: #545454;
+      --text-tertiary: #8c8c8c;
+      --accent: #00b894;
+      --accent-dark: #009975;
+      --accent-light: #e6f9f3;
+      --accent-bg: #f0faf6;
+      --tag-bg: #f5f5f5;
+      --shadow: 0 1px 2px rgba(0,0,0,0.03);
+      --shadow-hover: 0 2px 8px rgba(0,0,0,0.06);
+      --radius: 12px;
+      --radius-sm: 8px;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Nav */
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow);
+    }
+    .nav-logo {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--text);
+      text-decoration: none;
+      letter-spacing: -0.5px;
+    }
+    .nav-logo span { color: var(--accent); }
+    .nav-links { display: flex; gap: 1.5rem; list-style: none; }
+    .nav-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 500;
+    }
+    .nav-links a:hover { color: var(--text); }
+
+    /* Flag Banner */
+    .flag-banner {
+      height: 4px;
+      background: linear-gradient(
+        90deg,
+        #002395 0%, #002395 33%,
+        #FFFFFF 33%, #FFFFFF 66%,
+        #ED2939 66%, #ED2939 100%
+      );
+    }
+    .team-identity {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 2rem 0;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+    }
+    .team-crest {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      border: 3px solid #e5e5e5;
+    }
+    .team-crest svg {
+      width: 100%;
+      height: 100%;
+    }
+    .team-id-text .team-country {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--text-tertiary);
+      font-weight: 600;
+    }
+    .team-id-text .team-full-name {
+      font-size: 1.4rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      line-height: 1.2;
+    }
+    .team-id-text .team-fed {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+    }
+
+    /* Breadcrumb */
+    .breadcrumb {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1.5rem 2rem 0;
+      font-size: 0.8rem;
+      color: var(--text-tertiary);
+    }
+    .breadcrumb a { color: var(--text-secondary); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--text); }
+
+    /* Article */
+    .article {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 2rem 4rem;
+    }
+
+    /* Header */
+    .article-header {
+      padding: 2rem 0 2.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .host-tag {
+      display: inline-block;
+      background: var(--accent-light);
+      color: var(--accent-dark);
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.3rem 0.85rem;
+      border-radius: 20px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 1rem;
+    }
+    .article-header h1 {
+      font-size: 2.8rem;
+      font-weight: 900;
+      letter-spacing: -1.5px;
+      line-height: 1.1;
+      margin-bottom: 0.75rem;
+    }
+    .article-header .subtitle {
+      font-size: 1.15rem;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      max-width: 580px;
+    }
+
+    /* Quick Stats Row */
+    .stats-row {
+      display: flex;
+      gap: 0;
+      margin: 2rem 0;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+    .stat-item {
+      flex: 1;
+      padding: 1.2rem 1rem;
+      text-align: center;
+      border-right: 1px solid var(--border);
+    }
+    .stat-item:last-child { border-right: none; }
+    .stat-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--text-tertiary);
+      font-weight: 600;
+    }
+    .stat-value {
+      font-size: 1.4rem;
+      font-weight: 800;
+      margin-top: 0.2rem;
+      letter-spacing: -0.5px;
+    }
+
+    /* Sections */
+    h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin: 3rem 0 1.2rem;
+      color: var(--text);
+      display: inline-block;
+    }
+    h2::after {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: var(--accent);
+      margin-top: 0.5rem;
+      border-radius: 2px;
+    }
+
+    /* Tables */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0.5rem 0 1.5rem;
+      font-size: 0.9rem;
+      background: var(--surface);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+    th {
+      text-align: left;
+      padding: 0.7rem 0.8rem;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-tertiary);
+      font-weight: 600;
+      border-bottom: 1px solid var(--border);
+      background: var(--tag-bg);
+    }
+    td {
+      padding: 0.75rem 0.8rem;
+      border-bottom: 1px solid var(--border);
+    }
+    tr:nth-child(even) td { background: var(--tag-bg); }
+    tr:hover td { background: #eef7f4; }
+
+    /* Position badges */
+    .pos-badge {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .pos-gk { background: #fef3c7; color: #92400e; }
+    .pos-def { background: #dbeafe; color: #1e40af; }
+    .pos-mid { background: #e6f9f3; color: #047857; }
+    .pos-fwd { background: #fce7f3; color: #be185d; }
+
+    /* Player Cards */
+    .player-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+      margin: 0.5rem 0 1.5rem;
+    }
+    .player-item {
+      background: var(--surface);
+      padding: 1.2rem;
+      text-decoration: none;
+      color: var(--text);
+      transition: box-shadow 0.2s, transform 0.15s;
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+    }
+    .player-item:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-1px);
+    }
+    .player-thumb {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: top;
+      border: 2px solid var(--border);
+      flex-shrink: 0;
+    }
+    .player-item .name {
+      font-weight: 700;
+      font-size: 0.95rem;
+      letter-spacing: -0.3px;
+    }
+    .player-item .role {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      margin-top: 0.1rem;
+    }
+    .player-item .numbers {
+      display: flex;
+      gap: 1rem;
+      margin-top: 0.6rem;
+    }
+    .player-item .num-val {
+      font-size: 1.2rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .player-item .num-label {
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-tertiary);
+    }
+    .player-item .link {
+      display: inline-block;
+      margin-top: 0.6rem;
+      font-size: 0.75rem;
+      color: var(--accent-dark);
+      font-weight: 600;
+    }
+
+    /* Prose */
+    .prose {
+      font-size: 0.95rem;
+      line-height: 1.8;
+      color: var(--text-secondary);
+    }
+    .prose strong { color: var(--text); }
+    .prose p + p { margin-top: 1rem; }
+
+    /* Props */
+    .props-list {
+      margin: 0.5rem 0 1.5rem;
+    }
+    .prop-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.85rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .prop-item:last-child { border-bottom: none; }
+    .prop-name {
+      font-weight: 500;
+      font-size: 0.9rem;
+    }
+    .prop-value {
+      font-weight: 600;
+      font-size: 0.85rem;
+      background: transparent;
+      color: var(--text);
+      padding: 0.3rem 0.85rem;
+      border-radius: 20px;
+      border: 1.5px solid var(--border);
+    }
+    .prop-item.hot {
+      border: 1.5px solid var(--accent);
+      border-radius: var(--radius-sm);
+      padding: 0.85rem 0.8rem;
+      margin: 0 -0.8rem;
+      background: var(--accent-light);
+    }
+    .prop-item.hot .prop-value {
+      border-color: var(--accent);
+      color: var(--accent-dark);
+      font-weight: 700;
+    }
+
+    /* CTA */
+    .cta-block {
+      margin: 3rem 0;
+      padding: 2.5rem 2rem;
+      background: var(--accent);
+      border-radius: var(--radius);
+      text-align: center;
+      box-shadow: var(--shadow-hover);
+    }
+    .cta-block h3 {
+      font-size: 1.3rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-bottom: 0.5rem;
+      color: white;
+    }
+    .cta-block p {
+      color: rgba(255,255,255,0.85);
+      font-size: 0.9rem;
+      margin-bottom: 1.5rem;
+    }
+    .cta-btn {
+      display: inline-block;
+      background: white;
+      color: var(--accent);
+      padding: 0.75rem 2rem;
+      border-radius: 50px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      text-decoration: none;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .cta-btn:hover { transform: scale(1.03); box-shadow: 0 4px 15px rgba(0,0,0,0.15); }
+
+    /* Related */
+    .related-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+      margin: 0.5rem 0;
+    }
+    .related-grid a {
+      display: block;
+      padding: 1rem 1.2rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      color: var(--text);
+      font-size: 0.9rem;
+      font-weight: 600;
+      transition: box-shadow 0.2s, transform 0.15s;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+    .related-grid a:hover { box-shadow: var(--shadow-hover); transform: translateY(-1px); }
+    .related-grid a span {
+      display: block;
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+      font-weight: 400;
+      margin-top: 0.2rem;
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+    }
+    footer a { color: var(--text-secondary); text-decoration: none; }
+
+    /* History table colors */
+    .r-w { color: #16a34a; font-weight: 600; }
+    .r-d { color: var(--text-secondary); font-weight: 600; }
+    .r-l { color: var(--accent); font-weight: 600; }
+
+    @media (max-width: 640px) {
+      .article-header h1 { font-size: 2rem; }
+      .stats-row { flex-wrap: wrap; }
+      .stat-item { flex: 1 1 33%; }
+      .player-grid { grid-template-columns: 1fr; }
+      .related-grid { grid-template-columns: 1fr; }
+      nav { padding: 0 1rem; }
+      .article { padding: 0 1rem 3rem; }
+      .breadcrumb { padding: 1rem 1rem 0; }
+      .nav-links { display: none; }
+    }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <div class="top">
-      <a href="/world-cup-2026/">← World Cup 2026</a>
-      <a href="/world-cup-2026/teams/">All Teams</a>
-    </div>
 
-    <section class="hero">
-      <div class="tag">Co-Host 2026</div>
-      <h1>🇨🇦 Canada</h1>
-      <p class="sub">Canada’s upside is pace in transition. Their best prop angles come from direct wingers and high-event games against stronger opponents.</p>
-      <div class="stats">
-        <div class="box"><div class="lbl">FIFA Rank</div><div class="val">43</div></div>
-        <div class="box"><div class="lbl">Group</div><div class="val">TBD</div></div>
-        <div class="box"><div class="lbl">Market Type</div><div class="val" style="font-size:18px">Player Props</div></div>
-      </div>
-    </section>
-
-    <h2>Key Players</h2>
-    <div class="players">
-      <div class="p"><div class="n">Alphonso Davies</div><div class="m">Fullback/Winger · Bayern</div><div class="k">Focus: Assists, chances created, tackles</div></div><div class="p"><div class="n">Jonathan David</div><div class="m">Forward · Lille</div><div class="k">Focus: Goals, shots</div></div><div class="p"><div class="n">Cyle Larin</div><div class="m">Forward · Mallorca</div><div class="k">Focus: Goals, headers</div></div><div class="p"><div class="n">Dayne St. Clair</div><div class="m">Goalkeeper</div><div class="k">Focus: Saves</div></div>
-    </div>
-
-    <h2>Sample Prop Ideas (Projections)</h2>
-    <ul>
-      <li>Jonathan David Tournament Goals — O/U 2.5</li><li>Davies Assists — O/U 1.5</li><li>Canada Goalkeeper Saves — O/U 4.5</li>
+  <nav>
+    <a href="https://wcprops.app/" class="nav-logo"><span>wc</span>props</a>
+    <ul class="nav-links">
+      <li><a href="../../index.html">World Cup 2026</a></li>
+      <li><a href="https://wcprops.app/world-cup-2026/teams/">Teams</a></li>
+      <li><a href="https://wcprops.app/world-cup-2026/players/">Players</a></li>
+      <li><a href="https://wcprops.app/world-cup-2026/predictions/">Predictions</a></li>
     </ul>
+  </nav>
 
-    <div class="cta">
-      <h3 style="margin:0 0 6px">Canada player props are coming</h3>
-      <div>Get early access when World Cup lines on players go live.</div>
-      <a href="/world-cup-2026/#notify-form">Join the early access list →</a>
+  <!-- Flag Banner -->
+  <div class="flag-banner"></div>
+
+  <!-- Team Identity -->
+  <div class="team-identity">
+    <div class="team-crest">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+        <!-- France flag - vertical tricolor -->
+        <rect x="0" width="33.3" height="100" fill="#002395"/>
+        <rect x="33.3" width="33.4" height="100" fill="#FFFFFF"/>
+        <rect x="66.7" width="33.3" height="100" fill="#ED2939"/>
+      </svg>
+    </div>
+    <div class="team-id-text">
+      <div class="team-country">Canada</div>
+      <div class="team-full-name">Canada</div>
+      <div class="team-fed">Canada Soccer · CONCACAF</div>
     </div>
   </div>
+
+  <div class="breadcrumb">
+    <a href="../../index.html">World Cup 2026</a> / 
+    <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> / 
+    France
+  </div>
+
+  <article class="article">
+
+    <header class="article-header">
+      <div class="host-tag">Co-Host 2026</div>
+      <h1>France</h1>
+      <p class="subtitle">Canada enter 2026 with pace in transition and young attacking talent. Their strongest prop angles are winger volume, striker shots, and high-save goalkeeper spots versus elite teams.</p>
+    </header>
+
+    <div class="stats-row">
+      <div class="stat-item">
+        <div class="stat-label">FIFA Ranking</div>
+        <div class="stat-value">3</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Group</div>
+        <div class="stat-value">I</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">WC Apps</div>
+        <div class="stat-value">17th</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Best</div>
+        <div class="stat-value">Winners</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Manager</div>
+        <div class="stat-value" style="font-size:0.95rem">Deschamps</div>
+      </div>
+    </div>
+
+    <!-- Key Players -->
+    <h2>Key Players</h2>
+    <div class="player-grid">
+      <a href="../../players/kylian-mbappe/index.html" class="player-item">
+        <img src="mbappe.jpg" alt="Kylian Mbappe" class="player-thumb" width="56" height="56">
+        <div><div class="name">Kylian Mbappe</div>
+        <div class="role">Forward · Real Madrid, 27</div>
+        <div class="numbers">
+          <div class="num-block"><div class="num-val">85</div><div class="num-label">Caps</div></div>
+          <div class="num-block"><div class="num-val">48</div><div class="num-label">Goals</div></div>
+          <div class="num-block"><div class="num-val">28</div><div class="num-label">Assists</div></div>
+        </div>
+        <div class="link">View props &#8594;</div>
+        </div>
+      </a>
+      <a href="../../players/antoine-griezmann/index.html" class="player-item">
+        <img src="griezmann.jpg" alt="Antoine Griezmann" class="player-thumb" width="56" height="56">
+        <div><div class="name">Antoine Griezmann</div>
+        <div class="role">Forward/AM · Atletico Madrid, 35</div>
+        <div class="numbers">
+          <div class="num-block"><div class="num-val">130</div><div class="num-label">Caps</div></div>
+          <div class="num-block"><div class="num-val">46</div><div class="num-label">Goals</div></div>
+          <div class="num-block"><div class="num-val">30</div><div class="num-label">Assists</div></div>
+        </div>
+        <div class="link">View props &#8594;</div>
+        </div>
+      </a>
+      <a href="../../players/ousmane-dembele/index.html" class="player-item">
+        <img src="dembele.jpg" alt="Ousmane Dembele" class="player-thumb" width="56" height="56">
+        <div><div class="name">Ousmane Dembele</div>
+        <div class="role">Winger · PSG, 29</div>
+        <div class="numbers">
+          <div class="num-block"><div class="num-val">50</div><div class="num-label">Caps</div></div>
+          <div class="num-block"><div class="num-val">8</div><div class="num-label">Goals</div></div>
+          <div class="num-block"><div class="num-val">10</div><div class="num-label">Assists</div></div>
+        </div>
+        <div class="link">View props &#8594;</div>
+        </div>
+      </a>
+      <a href="../../players/aurelien-tchouameni/index.html" class="player-item">
+        <img src="tchouameni.jpg" alt="Aurelien Tchouameni" class="player-thumb" width="56" height="56">
+        <div><div class="name">Aurelien Tchouameni</div>
+        <div class="role">Midfielder · Real Madrid, 26</div>
+        <div class="numbers">
+          <div class="num-block"><div class="num-val">50</div><div class="num-label">Caps</div></div>
+          <div class="num-block"><div class="num-val">4</div><div class="num-label">Goals</div></div>
+          <div class="num-block"><div class="num-val">3</div><div class="num-label">Assists</div></div>
+        </div>
+        <div class="link">View props &#8594;</div>
+        </div>
+      </a>
+      <a href="../../players/william-saliba/index.html" class="player-item">
+        <img src="saliba.jpg" alt="William Saliba" class="player-thumb" width="56" height="56">
+        <div><div class="name">William Saliba</div>
+        <div class="role">Defender · Arsenal, 25</div>
+        <div class="numbers">
+          <div class="num-block"><div class="num-val">25</div><div class="num-label">Caps</div></div>
+          <div class="num-block"><div class="num-val">2</div><div class="num-label">Goals</div></div>
+          <div class="num-block"><div class="num-val">0</div><div class="num-label">Assists</div></div>
+        </div>
+        <div class="link">View props &#8594;</div>
+        </div>
+      </a>
+      <a href="../../players/mike-maignan/index.html" class="player-item">
+        <img src="maignan.jpg" alt="Mike Maignan" class="player-thumb" width="56" height="56">
+        <div><div class="name">Mike Maignan</div>
+        <div class="role">Goalkeeper · AC Milan, 31</div>
+        <div class="numbers">
+          <div class="num-block"><div class="num-val">25</div><div class="num-label">Caps</div></div>
+          <div class="num-block"><div class="num-val">0</div><div class="num-label">Goals</div></div>
+          <div class="num-block"><div class="num-val">0</div><div class="num-label">Assists</div></div>
+        </div>
+        <div class="link">View props &#8594;</div>
+        </div>
+      </a>
+    </div>
+
+    <!-- Projected Squad -->
+    <h2>Projected Squad</h2>
+    <p style="color:var(--text-tertiary); font-size:0.85rem; margin-bottom:0.5rem;">Final squad announced May 2026. Projected based on current form.</p>
+    <table>
+      <thead>
+        <tr><th>Pos</th><th>Player</th><th>Club</th><th>Age</th><th>Caps</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><span class="pos-badge pos-gk">GK</span></td><td>Mike Maignan</td><td>AC Milan</td><td>31</td><td>25</td></tr>
+        <tr><td><span class="pos-badge pos-gk">GK</span></td><td>Alphonse Areola</td><td>West Ham</td><td>33</td><td>8</td></tr>
+        <tr><td><span class="pos-badge pos-gk">GK</span></td><td>Brice Samba</td><td>Lens</td><td>30</td><td>5</td></tr>
+        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>William Saliba</td><td>Arsenal</td><td>25</td><td>25</td></tr>
+        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Dayot Upamecano</td><td>Bayern Munich</td><td>27</td><td>25</td></tr>
+        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Jules Kounde</td><td>Barcelona</td><td>27</td><td>30</td></tr>
+        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Theo Hernandez</td><td>AC Milan</td><td>28</td><td>20</td></tr>
+        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Ferland Mendy</td><td>Real Madrid</td><td>31</td><td>15</td></tr>
+        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Benjamin Pavard</td><td>Inter Milan</td><td>30</td><td>45</td></tr>
+        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Aurelien Tchouameni</td><td>Real Madrid</td><td>26</td><td>50</td></tr>
+        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Eduardo Camavinga</td><td>Real Madrid</td><td>23</td><td>20</td></tr>
+        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Adrien Rabiot</td><td>Marseille</td><td>31</td><td>50</td></tr>
+        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Youssouf Fofana</td><td>AC Milan</td><td>27</td><td>25</td></tr>
+        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>N'Golo Kante</td><td>Al-Ittihad</td><td>35</td><td>55</td></tr>
+        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Kylian Mbappe</td><td>Real Madrid</td><td>27</td><td>85</td></tr>
+        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Antoine Griezmann</td><td>Atletico Madrid</td><td>35</td><td>130</td></tr>
+        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Ousmane Dembele</td><td>PSG</td><td>29</td><td>50</td></tr>
+        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Marcus Thuram</td><td>Inter Milan</td><td>28</td><td>20</td></tr>
+        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Michael Olise</td><td>Bayern Munich</td><td>24</td><td>15</td></tr>
+        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Randal Kolo Muani</td><td>PSG</td><td>27</td><td>20</td></tr>
+      </tbody>
+    </table>
+
+    <!-- World Cup History -->
+    <h2>World Cup History</h2>
+    <div class="prose">
+      <p>France are <strong>two-time World Cup champions</strong> (1998, 2018) and one of the most decorated nations in tournament history. Their 17 appearances span nearly a century, from the inaugural 1930 tournament to back-to-back finals in 2018 and 2022.</p>
+      <p>The <strong>1998 triumph on home soil</strong> remains the defining moment of French football · Zinedine Zidane's two headers in the final against Brazil turned a nation into believers. Twenty years later, <strong>Didier Deschamps</strong> won the title as manager in Russia, becoming only the third person to win the World Cup as both player and coach.</p>
+      <p>In <strong>Qatar 2022</strong>, France came agonizingly close to becoming the first team to retain the trophy since Brazil in 1962. <strong>Kylian Mbappe's hat-trick in the final</strong> against Argentina, including two goals in 97 seconds to force extra time, was one of the greatest individual performances in World Cup history. The penalty shootout defeat only sharpened France's hunger for 2026.</p>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Year</th><th>Host</th><th>Result</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1930</td><td>Uruguay</td><td class="r-l">R1</td></tr>
+        <tr><td>1934</td><td>Italy</td><td class="r-l">R1</td></tr>
+        <tr><td>1938</td><td>France</td><td class="r-d">QF</td></tr>
+        <tr><td>1954</td><td>Switzerland</td><td class="r-l">R1</td></tr>
+        <tr><td>1958</td><td>Sweden</td><td class="r-d">3rd</td></tr>
+        <tr><td>1966</td><td>England</td><td class="r-l">R1</td></tr>
+        <tr><td>1978</td><td>Argentina</td><td class="r-l">R1</td></tr>
+        <tr><td>1982</td><td>Spain</td><td class="r-d">4th</td></tr>
+        <tr><td>1986</td><td>Mexico</td><td class="r-d">3rd</td></tr>
+        <tr><td>1998</td><td>France</td><td class="r-w">WINNERS</td></tr>
+        <tr><td>2002</td><td>Korea/Japan</td><td class="r-l">R1</td></tr>
+        <tr><td>2006</td><td>Germany</td><td class="r-d">Runner-up</td></tr>
+        <tr><td>2010</td><td>South Africa</td><td class="r-l">R1</td></tr>
+        <tr><td>2014</td><td>Brazil</td><td class="r-d">QF</td></tr>
+        <tr><td>2018</td><td>Russia</td><td class="r-w">WINNERS</td></tr>
+        <tr><td>2022</td><td>Qatar</td><td class="r-d">Runner-up</td></tr>
+      </tbody>
+    </table>
+
+    <!-- Player Props -->
+    <h2 id="player-props">Player Props</h2>
+    <div class="props-list">
+      <div class="prop-item hot">
+        <span class="prop-name">Kylian Mbappe: Tournament Goals</span>
+        <span class="prop-value">O/U 3.5</span>
+      </div>
+      <div class="prop-item">
+        <span class="prop-name">Antoine Griezmann: Goals + Assists</span>
+        <span class="prop-value">O/U 3.5</span>
+      </div>
+      <div class="prop-item">
+        <span class="prop-name">Ousmane Dembele: Tournament Assists</span>
+        <span class="prop-value">O/U 2.5</span>
+      </div>
+      <div class="prop-item">
+        <span class="prop-name">Aurelien Tchouameni: Tournament Goals</span>
+        <span class="prop-value">O/U 0.5</span>
+      </div>
+    </div>
+
+    <h2>Team Props</h2>
+    <div class="props-list">
+      <div class="prop-item">
+        <span class="prop-name">Total Group Stage Goals</span>
+        <span class="prop-value">O/U 7.5</span>
+      </div>
+      <div class="prop-item hot">
+        <span class="prop-name">Clean Sheets (Group Stage)</span>
+        <span class="prop-value">O/U 2.5</span>
+      </div>
+      <div class="prop-item">
+        <span class="prop-name">Group Stage Points</span>
+        <span class="prop-value">O/U 7.5</span>
+      </div>
+      <div class="prop-item">
+        <span class="prop-name">Furthest Round Reached</span>
+        <span class="prop-value">Final</span>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="cta-block">
+      <h3>World Cup player props are coming</h3>
+      <p>Get early access when World Cup lines on players go live.</p>
+      <a href="#notify-form" class="cta-btn">Join the early access list →</a>
+    </div>
+
+    <!-- Related -->
+    <h2>Related</h2>
+    <div class="related-grid">
+      <a href="../../players/kylian-mbappe/index.html">
+        Kylian Mbappe
+        <span>Stats, projections, prop markets</span>
+      </a>
+      <a href="https://wcprops.app/world-cup-2026/predictions/">
+        WC 2026 Predictions
+        <span>Who wins it all?</span>
+      </a>
+      <a href="https://wcprops.app/world-cup-2026/compare/mbappe-vs-messi/">
+        Mbappe vs Messi
+        <span>Head-to-head comparison</span>
+      </a>
+      <a href="../usa/index.html">
+        Argentina
+        <span>2022 Final rematch?</span>
+      </a>
+      <a href="../mexico/index.html">
+        Brazil
+        <span>European rivals' nemesis</span>
+      </a>
+      <a href="https://wcprops.app/world-cup-2026/props/anytime-goalscorer/">
+        Anytime Goalscorer
+        <span>Best value across all teams</span>
+      </a>
+    </div>
+
+  
+    <!-- Email Capture -->
+    <div style="margin:2rem 0;padding:1.5rem;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius, 20px);box-shadow:0 1px 2px rgba(0,0,0,0.03);text-align:center;">
+      <div style="font-size:1rem;font-weight:700;margin-bottom:0.3rem;">Get notified when player props go live</div>
+      <div style="font-size:0.8rem;color:#8c8c8c;margin-bottom:0.8rem;">We'll email you when prop markets open for World Cup 2026</div>
+      <form id="notify-form" style="display:flex;gap:0.5rem;max-width:400px;margin:0 auto;">
+        <input type="email" id="notify-email" placeholder="your@email.com" required style="flex:1;padding:0.6rem 1rem;border:1.5px solid #ebebeb;border-radius:50px;font-size:0.85rem;font-family:inherit;outline:none;" onfocus="this.style.borderColor='#00b894'" onblur="this.style.borderColor='#ebebeb'">
+        <button type="submit" style="background:#00b894;color:white;border:none;padding:0.6rem 1.5rem;border-radius:50px;font-size:0.85rem;font-weight:700;cursor:pointer;font-family:inherit;">Notify Me</button>
+      </form>
+      <div id="notify-success" style="display:none;margin-top:0.8rem;font-size:0.85rem;color:#009975;font-weight:600;"></div>
+    </div>
+    <script>
+    document.getElementById('notify-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      var email = document.getElementById('notify-email').value;
+      var btn = this.querySelector('button');
+      btn.textContent = '...';
+      btn.disabled = true;
+      fetch('https://formspree.io/f/mbdzpyjb', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
+        body: JSON.stringify({email: email, source: 'wcprops.app', page: window.location.pathname})
+      }).then(function(r) {
+        document.getElementById('notify-form').style.display = 'none';
+        document.getElementById('notify-success').style.display = 'block';
+        document.getElementById('notify-success').textContent = "You're on the list! We'll notify you when player props go live.";
+      }).catch(function() {
+        btn.textContent = 'Notify Me';
+        btn.disabled = false;
+      });
+    });
+    </script>
+
+  </article>
+
+  <footer>
+    <a href="../../index.html">World Cup 2026</a> · 
+    <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> · 
+    <a href="https://wcprops.app/world-cup-2026/players/">Players</a> · 
+    <a href="https://wcprops.app/world-cup-2026/predictions/">Predictions</a>
+    <p style="margin-top:0.5rem;">&copy; 2026 WC Props · Stats from public sources · Not financial advice</p>
+  </footer>
+
 </body>
 </html>
