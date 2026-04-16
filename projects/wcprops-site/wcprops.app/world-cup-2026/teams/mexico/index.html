@@ -4,760 +4,139 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mexico World Cup 2026 Player Props & Squad | WC Props</title>
-  <meta name="description" content="Mexico World Cup 2026 player props, key players and squad outlook. Research goals, shots and assist props.">
+  <meta name="description" content="Mexico World Cup 2026 team page. Data is sourced from the current players pilot dataset when available.">
   <link rel="canonical" href="index.html">
-
-  <meta property="og:title" content="Mexico · World Cup 2026 Squad & Player Props">
-  <meta property="og:description" content="Mexico squad, predictions, and player props for the 2026 FIFA World Cup.">
-  <meta property="og:type" content="website">
-  <meta name="twitter:card" content="summary_large_image">
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsTeam",
-    "name": "Mexico National Football Team",
-    "alternateName": "El Tri",
-    "sport": "Soccer",
-    "memberOf": { "@type": "SportsOrganization", "name": "FIFA World Cup 2026" },
-    "coach": { "@type": "Person", "name": "Jaime Lozano" },
-    "athlete": [
-      { "@type": "Person", "name": "Santiago Gimenez" },
-      { "@type": "Person", "name": "Edson Alvarez" },
-      { "@type": "Person", "name": "Hirving Lozano" },
-      { "@type": "Person", "name": "Guillermo Ochoa" }
-    ]
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "World Cup 2026", "item": "https://wcprops.app/world-cup-2026/" },
-      { "@type": "ListItem", "position": 2, "name": "Teams", "item": "https://wcprops.app/world-cup-2026/teams/" },
-      { "@type": "ListItem", "position": 3, "name": "Mexico" }
-    ]
-  }
-  </script>
-
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-
   <style>
-    :root {
-      --bg: #f7f7f8;
-      --surface: #ffffff;
-      --border: #ebebeb;
-      --text: #1a1a1a;
-      --text-secondary: #545454;
-      --text-tertiary: #8c8c8c;
-      --accent: #00b894;
-      --accent-dark: #009975;
-      --accent-light: #e6f9f3;
-      --accent-bg: #f0faf6;
-      --tag-bg: #f5f5f5;
-      --shadow: 0 1px 2px rgba(0,0,0,0.03);
-      --shadow-hover: 0 2px 8px rgba(0,0,0,0.06);
-      --radius: 12px;
-      --radius-sm: 8px;
-    }
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-      -webkit-font-smoothing: antialiased;
-    }
-
-    /* Nav */
-    nav {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 0 2rem;
-      height: 60px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      box-shadow: var(--shadow);
-    }
-    .nav-logo {
-      font-size: 1.1rem;
-      font-weight: 800;
-      color: var(--text);
-      text-decoration: none;
-      letter-spacing: -0.5px;
-    }
-    .nav-logo span { color: var(--accent); }
-    .nav-links { display: flex; gap: 1.5rem; list-style: none; }
-    .nav-links a {
-      color: var(--text-secondary);
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-    }
-    .nav-links a:hover { color: var(--text); }
-
-    /* Flag Banner */
-    .flag-banner {
-      height: 4px;
-      background: linear-gradient(
-        90deg,
-        #002395 0%, #002395 33%,
-        #FFFFFF 33%, #FFFFFF 66%,
-        #ED2939 66%, #ED2939 100%
-      );
-    }
-    .team-identity {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2rem 2rem 0;
-      display: flex;
-      align-items: center;
-      gap: 1.2rem;
-    }
-    .team-crest {
-      width: 72px;
-      height: 72px;
-      border-radius: 50%;
-      overflow: hidden;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-      border: 3px solid #e5e5e5;
-    }
-    .team-crest svg {
-      width: 100%;
-      height: 100%;
-    }
-    .team-id-text .team-country {
-      font-size: 0.7rem;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      color: var(--text-tertiary);
-      font-weight: 600;
-    }
-    .team-id-text .team-full-name {
-      font-size: 1.4rem;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-      line-height: 1.2;
-    }
-    .team-id-text .team-fed {
-      font-size: 0.8rem;
-      color: var(--text-secondary);
-    }
-
-    /* Breadcrumb */
-    .breadcrumb {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 1.5rem 2rem 0;
-      font-size: 0.8rem;
-      color: var(--text-tertiary);
-    }
-    .breadcrumb a { color: var(--text-secondary); text-decoration: none; }
-    .breadcrumb a:hover { color: var(--text); }
-
-    /* Article */
-    .article {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 0 2rem 4rem;
-    }
-
-    /* Header */
-    .article-header {
-      padding: 2rem 0 2.5rem;
-      border-bottom: 1px solid var(--border);
-    }
-    .host-tag {
-      display: inline-block;
-      background: var(--accent-light);
-      color: var(--accent-dark);
-      font-size: 0.7rem;
-      font-weight: 700;
-      padding: 0.3rem 0.85rem;
-      border-radius: 20px;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin-bottom: 1rem;
-    }
-    .article-header h1 {
-      font-size: 2.8rem;
-      font-weight: 900;
-      letter-spacing: -1.5px;
-      line-height: 1.1;
-      margin-bottom: 0.75rem;
-    }
-    .article-header .subtitle {
-      font-size: 1.15rem;
-      color: var(--text-secondary);
-      line-height: 1.5;
-      max-width: 580px;
-    }
-
-    /* Quick Stats Row */
-    .stats-row {
-      display: flex;
-      gap: 0;
-      margin: 2rem 0;
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      background: var(--surface);
-      box-shadow: var(--shadow);
-    }
-    .stat-item {
-      flex: 1;
-      padding: 1.2rem 1rem;
-      text-align: center;
-      border-right: 1px solid var(--border);
-    }
-    .stat-item:last-child { border-right: none; }
-    .stat-label {
-      font-size: 0.65rem;
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-      color: var(--text-tertiary);
-      font-weight: 600;
-    }
-    .stat-value {
-      font-size: 1.4rem;
-      font-weight: 800;
-      margin-top: 0.2rem;
-      letter-spacing: -0.5px;
-    }
-
-    /* Sections */
-    h2 {
-      font-size: 1.1rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin: 3rem 0 1.2rem;
-      color: var(--text);
-      display: inline-block;
-    }
-    h2::after {
-      content: '';
-      display: block;
-      width: 100%;
-      height: 3px;
-      background: var(--accent);
-      margin-top: 0.5rem;
-      border-radius: 2px;
-    }
-
-    /* Tables */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 0.5rem 0 1.5rem;
-      font-size: 0.9rem;
-      background: var(--surface);
-      border-radius: var(--radius);
-      overflow: hidden;
-      box-shadow: var(--shadow);
-    }
-    th {
-      text-align: left;
-      padding: 0.7rem 0.8rem;
-      font-size: 0.7rem;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      color: var(--text-tertiary);
-      font-weight: 600;
-      border-bottom: 1px solid var(--border);
-      background: var(--tag-bg);
-    }
-    td {
-      padding: 0.75rem 0.8rem;
-      border-bottom: 1px solid var(--border);
-    }
-    tr:nth-child(even) td { background: var(--tag-bg); }
-    tr:hover td { background: #eef7f4; }
-
-    /* Position badges */
-    .pos-badge {
-      display: inline-block;
-      font-size: 0.65rem;
-      font-weight: 700;
-      padding: 0.2rem 0.5rem;
-      border-radius: 4px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    .pos-gk { background: #fef3c7; color: #92400e; }
-    .pos-def { background: #dbeafe; color: #1e40af; }
-    .pos-mid { background: #e6f9f3; color: #047857; }
-    .pos-fwd { background: #fce7f3; color: #be185d; }
-
-    /* Player Cards */
-    .player-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 0.75rem;
-      margin: 0.5rem 0 1.5rem;
-    }
-    .player-item {
-      background: var(--surface);
-      padding: 1.2rem;
-      text-decoration: none;
-      color: var(--text);
-      transition: box-shadow 0.2s, transform 0.15s;
-      display: flex;
-      gap: 1rem;
-      align-items: flex-start;
-      border-radius: var(--radius);
-      border: 1px solid var(--border);
-      box-shadow: var(--shadow);
-    }
-    .player-item:hover {
-      box-shadow: var(--shadow-hover);
-      transform: translateY(-1px);
-    }
-    .player-thumb {
-      width: 56px;
-      height: 56px;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: top;
-      border: 2px solid var(--border);
-      flex-shrink: 0;
-    }
-    .player-item .name {
-      font-weight: 700;
-      font-size: 0.95rem;
-      letter-spacing: -0.3px;
-    }
-    .player-item .role {
-      font-size: 0.8rem;
-      color: var(--text-secondary);
-      margin-top: 0.1rem;
-    }
-    .player-item .numbers {
-      display: flex;
-      gap: 1rem;
-      margin-top: 0.6rem;
-    }
-    .player-item .num-val {
-      font-size: 1.2rem;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-    }
-    .player-item .num-label {
-      font-size: 0.6rem;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      color: var(--text-tertiary);
-    }
-    .player-item .link {
-      display: inline-block;
-      margin-top: 0.6rem;
-      font-size: 0.75rem;
-      color: var(--accent-dark);
-      font-weight: 600;
-    }
-
-    /* Prose */
-    .prose {
-      font-size: 0.95rem;
-      line-height: 1.8;
-      color: var(--text-secondary);
-    }
-    .prose strong { color: var(--text); }
-    .prose p + p { margin-top: 1rem; }
-
-    /* Props */
-    .props-list {
-      margin: 0.5rem 0 1.5rem;
-    }
-    .prop-item {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 0.85rem 0;
-      border-bottom: 1px solid var(--border);
-    }
-    .prop-item:last-child { border-bottom: none; }
-    .prop-name {
-      font-weight: 500;
-      font-size: 0.9rem;
-    }
-    .prop-value {
-      font-weight: 600;
-      font-size: 0.85rem;
-      background: transparent;
-      color: var(--text);
-      padding: 0.3rem 0.85rem;
-      border-radius: 20px;
-      border: 1.5px solid var(--border);
-    }
-    .prop-item.hot {
-      border: 1.5px solid var(--accent);
-      border-radius: var(--radius-sm);
-      padding: 0.85rem 0.8rem;
-      margin: 0 -0.8rem;
-      background: var(--accent-light);
-    }
-    .prop-item.hot .prop-value {
-      border-color: var(--accent);
-      color: var(--accent-dark);
-      font-weight: 700;
-    }
-
-    /* CTA */
-    .cta-block {
-      margin: 3rem 0;
-      padding: 2.5rem 2rem;
-      background: var(--accent);
-      border-radius: var(--radius);
-      text-align: center;
-      box-shadow: var(--shadow-hover);
-    }
-    .cta-block h3 {
-      font-size: 1.3rem;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-      margin-bottom: 0.5rem;
-      color: white;
-    }
-    .cta-block p {
-      color: rgba(255,255,255,0.85);
-      font-size: 0.9rem;
-      margin-bottom: 1.5rem;
-    }
-    .cta-btn {
-      display: inline-block;
-      background: white;
-      color: var(--accent);
-      padding: 0.75rem 2rem;
-      border-radius: 50px;
-      font-weight: 700;
-      font-size: 0.9rem;
-      text-decoration: none;
-      transition: transform 0.15s, box-shadow 0.15s;
-    }
-    .cta-btn:hover { transform: scale(1.03); box-shadow: 0 4px 15px rgba(0,0,0,0.15); }
-
-    /* Related */
-    .related-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 0.75rem;
-      margin: 0.5rem 0;
-    }
-    .related-grid a {
-      display: block;
-      padding: 1rem 1.2rem;
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      text-decoration: none;
-      color: var(--text);
-      font-size: 0.9rem;
-      font-weight: 600;
-      transition: box-shadow 0.2s, transform 0.15s;
-      background: var(--surface);
-      box-shadow: var(--shadow);
-    }
-    .related-grid a:hover { box-shadow: var(--shadow-hover); transform: translateY(-1px); }
-    .related-grid a span {
-      display: block;
-      font-size: 0.75rem;
-      color: var(--text-tertiary);
-      font-weight: 400;
-      margin-top: 0.2rem;
-    }
-
-    /* Footer */
-    footer {
-      border-top: 1px solid var(--border);
-      padding: 2rem;
-      text-align: center;
-      font-size: 0.75rem;
-      color: var(--text-tertiary);
-    }
-    footer a { color: var(--text-secondary); text-decoration: none; }
-
-    /* History table colors */
-    .r-w { color: #16a34a; font-weight: 600; }
-    .r-d { color: var(--text-secondary); font-weight: 600; }
-    .r-l { color: var(--accent); font-weight: 600; }
-
-    @media (max-width: 640px) {
-      .article-header h1 { font-size: 2rem; }
-      .stats-row { flex-wrap: wrap; }
-      .stat-item { flex: 1 1 33%; }
-      .player-grid { grid-template-columns: 1fr; }
-      .related-grid { grid-template-columns: 1fr; }
-      nav { padding: 0 1rem; }
-      .article { padding: 0 1rem 3rem; }
-      .breadcrumb { padding: 1rem 1rem 0; }
-      .nav-links { display: none; }
-    }
+    :root { --bg:#f7f7f8; --surface:#fff; --border:#ebebeb; --text:#1a1a1a; --text-secondary:#545454; --text-tertiary:#8c8c8c; --accent:#00b894; --accent-dark:#009975; --accent-light:#e6f9f3; --shadow:0 1px 2px rgba(0,0,0,.03); --radius:12px; }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
+    nav { background:var(--surface); border-bottom:1px solid var(--border); padding:0 2rem; height:60px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:10; }
+    .nav-logo { font-size:1.1rem; font-weight:800; color:var(--text); text-decoration:none; }
+    .nav-logo span { color:var(--accent); }
+    .nav-links { display:flex; gap:1.5rem; list-style:none; }
+    .nav-links a { color:var(--text-secondary); text-decoration:none; font-size:.85rem; }
+    .flag-banner { height:4px; background:linear-gradient(90deg,#006847 0%,#006847 33%,#ffffff 33%,#ffffff 66%,#ce1126 66%,#ce1126 100%); }
+    .wrap { max-width:800px; margin:0 auto; padding:0 2rem 3rem; }
+    .team-identity { padding:2rem 0 0; display:flex; align-items:center; gap:1rem; }
+    .team-crest { width:72px; height:72px; border-radius:50%; border:2px solid var(--border); display:flex; align-items:center; justify-content:center; background:#fff; font-size:2rem; }
+    .team-country { font-size:.7rem; text-transform:uppercase; letter-spacing:2px; color:var(--text-tertiary); font-weight:600; }
+    .team-name { font-size:1.5rem; font-weight:800; }
+    .team-fed { font-size:.85rem; color:var(--text-secondary); }
+    .breadcrumb { padding:1rem 0 0; color:var(--text-tertiary); font-size:.8rem; }
+    .breadcrumb a { color:var(--text-secondary); text-decoration:none; }
+    .header { padding:1.8rem 0 2rem; border-bottom:1px solid var(--border); }
+    .host-tag { display:inline-block; background:var(--accent-light); color:var(--accent-dark); font-size:.7rem; font-weight:700; padding:.25rem .7rem; border-radius:20px; text-transform:uppercase; letter-spacing:1px; margin-bottom:1rem; }
+    h1 { font-size:2.5rem; line-height:1.1; letter-spacing:-1px; margin-bottom:.6rem; }
+    .subtitle { color:var(--text-secondary); max-width:620px; }
+    .stats-row { display:flex; margin:1.8rem 0; border:1px solid var(--border); border-radius:var(--radius); overflow:hidden; background:var(--surface); box-shadow:var(--shadow); }
+    .stat { flex:1; text-align:center; padding:1rem .5rem; border-right:1px solid var(--border); }
+    .stat:last-child { border-right:none; }
+    .stat .label { font-size:.65rem; text-transform:uppercase; letter-spacing:1px; color:var(--text-tertiary); font-weight:600; }
+    .stat .value { font-size:1.1rem; font-weight:800; margin-top:.2rem; }
+    h2 { font-size:1.05rem; margin:2.2rem 0 .8rem; text-transform:uppercase; letter-spacing:1px; display:inline-block; }
+    h2::after { content:''; display:block; height:3px; margin-top:.4rem; background:var(--accent); border-radius:2px; }
+    .note { font-size:.85rem; color:var(--text-tertiary); margin:.25rem 0 .8rem; }
+    .cards { display:grid; grid-template-columns:1fr 1fr; gap:.7rem; }
+    .card { background:#fff; border:1px solid var(--border); border-radius:12px; padding:1rem; text-decoration:none; color:inherit; }
+    .name { font-weight:700; }
+    .role { font-size:.82rem; color:var(--text-secondary); }
+    .mini { margin-top:.5rem; font-size:.78rem; color:var(--text-tertiary); }
+    table { width:100%; border-collapse:collapse; background:#fff; border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+    th,td { padding:.7rem .75rem; border-bottom:1px solid var(--border); text-align:left; font-size:.88rem; }
+    th { font-size:.68rem; text-transform:uppercase; letter-spacing:1px; color:var(--text-tertiary); background:#f5f5f5; }
+    .prose { color:var(--text-secondary); font-size:.95rem; }
+    .prose p + p { margin-top:.7rem; }
+    .related { display:grid; grid-template-columns:1fr 1fr; gap:.7rem; }
+    .related a { text-decoration:none; color:var(--text); border:1px solid var(--border); border-radius:10px; background:#fff; padding:.9rem 1rem; font-weight:600; }
+    footer { border-top:1px solid var(--border); padding:2rem; text-align:center; color:var(--text-tertiary); font-size:.75rem; }
+    footer a { color:var(--text-secondary); text-decoration:none; }
+    @media (max-width:640px){ .wrap{padding:0 1rem 2rem;} .cards,.related{grid-template-columns:1fr;} .stats-row{flex-wrap:wrap;} .stat{flex:1 1 33%;} .nav-links{display:none;} h1{font-size:2rem;} }
   </style>
 </head>
 <body>
-
   <nav>
     <a href="https://wcprops.app/" class="nav-logo"><span>wc</span>props</a>
     <ul class="nav-links">
       <li><a href="../../index.html">World Cup 2026</a></li>
       <li><a href="https://wcprops.app/world-cup-2026/teams/">Teams</a></li>
       <li><a href="https://wcprops.app/world-cup-2026/players/">Players</a></li>
-      <li><a href="https://wcprops.app/world-cup-2026/predictions/">Predictions</a></li>
     </ul>
   </nav>
-
-  <!-- Flag Banner -->
   <div class="flag-banner"></div>
 
-  <!-- Team Identity -->
-  <div class="team-identity">
-    <div class="team-crest">
-      <div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:30px;background:#fff">🇲🇽</div>
+  <div class="wrap">
+    <div class="team-identity">
+      <div class="team-crest">🇲🇽</div>
+      <div>
+        <div class="team-country">United Mexican States</div>
+        <div class="team-name">Mexico</div>
+        <div class="team-fed">Federación Mexicana de Fútbol · CONCACAF</div>
+      </div>
     </div>
-    <div class="team-id-text">
-      <div class="team-country">United Mexican States</div>
-      <div class="team-full-name">Mexico</div>
-      <div class="team-fed">Federación Mexicana de Fútbol · CONCACAF</div>
+
+    <div class="breadcrumb">
+      <a href="../../index.html">World Cup 2026</a> / <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> / Mexico
     </div>
-  </div>
 
-  <div class="breadcrumb">
-    <a href="../../index.html">World Cup 2026</a> / 
-    <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> / 
-    Mexico
-  </div>
-
-  <article class="article">
-
-    <header class="article-header">
+    <header class="header">
       <div class="host-tag">Co-Host 2026</div>
       <h1>Mexico</h1>
-      <p class="subtitle">Mexico enter 2026 as co-hosts with major fan support and high-event matches. Their props profile leans toward forward shots, goals, and goalkeeper saves versus top sides.</p>
+      <p class="subtitle">Data-first team page. We only publish values that are present in the current pilot dataset. Missing values are marked TBD.</p>
     </header>
 
     <div class="stats-row">
-      <div class="stat-item">
-        <div class="stat-label">FIFA Ranking</div>
-        <div class="stat-value">3</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-label">Group</div>
-        <div class="stat-value">I</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-label">WC Apps</div>
-        <div class="stat-value">17th</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-label">Best</div>
-        <div class="stat-value">Winners</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-label">Manager</div>
-        <div class="stat-value" style="font-size:0.95rem">Deschamps</div>
-      </div>
+      <div class="stat"><div class="label">FIFA Ranking</div><div class="value">TBD</div></div>
+      <div class="stat"><div class="label">Group</div><div class="value">TBD</div></div>
+      <div class="stat"><div class="label">WC Apps</div><div class="value">TBD</div></div>
+      <div class="stat"><div class="label">Best</div><div class="value">TBD</div></div>
+      <div class="stat"><div class="label">Manager</div><div class="value">TBD</div></div>
     </div>
 
-    <!-- Key Players -->
     <h2>Key Players</h2>
-    <div class="player-grid">
-            <a href="/world-cup-2026/players/" class="player-item">
-        <img src="https://ui-avatars.com/api/?name=Santiago%20Gimenez&background=eeeeee&color=333333&size=112" alt="Santiago Gimenez" class="player-thumb" width="56" height="56">
-        <div><div class="name">Santiago Gimenez</div>
-        <div class="role">Forward · Milan, 25</div>
-        <div class="numbers">
-          <div class="num-block"><div class="num-val">40</div><div class="num-label">Caps</div></div>
-          <div class="num-block"><div class="num-val">22</div><div class="num-label">Goals</div></div>
-          <div class="num-block"><div class="num-val">7</div><div class="num-label">Assists</div></div>
-        </div>
-        <div class="link">View props &#8594;</div>
-        </div>
-      </a>
-            <a href="/world-cup-2026/players/" class="player-item">
-        <img src="https://ui-avatars.com/api/?name=Edson%20Alvarez&background=eeeeee&color=333333&size=112" alt="Edson Alvarez" class="player-thumb" width="56" height="56">
-        <div><div class="name">Edson Alvarez</div>
-        <div class="role">Midfielder · West Ham, 29</div>
-        <div class="numbers">
-          <div class="num-block"><div class="num-val">84</div><div class="num-label">Caps</div></div>
-          <div class="num-block"><div class="num-val">5</div><div class="num-label">Goals</div></div>
-          <div class="num-block"><div class="num-val">6</div><div class="num-label">Assists</div></div>
-        </div>
-        <div class="link">View props &#8594;</div>
-        </div>
-      </a>
-            <a href="/world-cup-2026/players/" class="player-item">
-        <img src="https://ui-avatars.com/api/?name=Hirving%20Lozano&background=eeeeee&color=333333&size=112" alt="Hirving Lozano" class="player-thumb" width="56" height="56">
-        <div><div class="name">Hirving Lozano</div>
-        <div class="role">Winger · PSV, 31</div>
-        <div class="numbers">
-          <div class="num-block"><div class="num-val">70</div><div class="num-label">Caps</div></div>
-          <div class="num-block"><div class="num-val">18</div><div class="num-label">Goals</div></div>
-          <div class="num-block"><div class="num-val">14</div><div class="num-label">Assists</div></div>
-        </div>
-        <div class="link">View props &#8594;</div>
-        </div>
-      </a>
-            <a href="/world-cup-2026/players/" class="player-item">
-        <img src="https://ui-avatars.com/api/?name=Guillermo%20Ochoa&background=eeeeee&color=333333&size=112" alt="Guillermo Ochoa" class="player-thumb" width="56" height="56">
-        <div><div class="name">Guillermo Ochoa</div>
-        <div class="role">Goalkeeper · Salernitana, 40</div>
-        <div class="numbers">
-          <div class="num-block"><div class="num-val">150</div><div class="num-label">Caps</div></div>
-          <div class="num-block"><div class="num-val">0</div><div class="num-label">Goals</div></div>
-          <div class="num-block"><div class="num-val">0</div><div class="num-label">Assists</div></div>
-        </div>
-        <div class="link">View props &#8594;</div>
-        </div>
-      </a>
+    <p class="note">Links point to dedicated player pages when available; otherwise to the players hub.</p>
+    <div class="cards">
+      <a class="card" href="../../players/santiago-gimenez/index.html"><div class="name">Santiago Gimenez</div><div class="role">Forward · Mexico</div><div class="mini">Dataset stats: TBD</div></a>
+      <a class="card" href="../../players/edson-alvarez/index.html"><div class="name">Edson Alvarez</div><div class="role">Midfielder · Mexico</div><div class="mini">Dataset stats: TBD</div></a>
+      <a class="card" href="/world-cup-2026/players/"><div class="name">Raúl Jiménez</div><div class="role">Forward · Mexico</div><div class="mini">Dedicated page not available</div></a>
+      <a class="card" href="/world-cup-2026/players/"><div class="name">Guillermo Ochoa</div><div class="role">Goalkeeper · Mexico</div><div class="mini">Dedicated page not available</div></a>
     </div>
 
-    <!-- Projected Squad -->
     <h2>Projected Squad</h2>
-    <p style="color:var(--text-tertiary); font-size:0.85rem; margin-bottom:0.5rem;">Final squad announced May 2026. Projected based on current form.</p>
+    <p class="note">Pilot dataset does not include Mexico squad-level records yet.</p>
     <table>
-      <thead>
-        <tr><th>Pos</th><th>Player</th><th>Club</th><th>Age</th><th>Caps</th></tr>
-      </thead>
+      <thead><tr><th>Pos</th><th>Player</th><th>Club</th><th>Age</th><th>Caps</th></tr></thead>
       <tbody>
-        <tr><td><span class="pos-badge pos-gk">GK</span></td><td>Guillermo Ochoa</td><td>Salernitana</td><td>40</td><td>150</td></tr>
-        <tr><td><span class="pos-badge pos-gk">GK</span></td><td>Luis Malagón</td><td>Club América</td><td>29</td><td>15</td></tr>
-        <tr><td><span class="pos-badge pos-gk">GK</span></td><td>Raúl Rangel</td><td>Guadalajara</td><td>25</td><td>5</td></tr>
-
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>César Montes</td><td>Almería</td><td>29</td><td>48</td></tr>
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Johan Vásquez</td><td>Genoa</td><td>28</td><td>45</td></tr>
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Jorge Sánchez</td><td>Porto</td><td>28</td><td>43</td></tr>
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Jesús Gallardo</td><td>Toluca</td><td>31</td><td>95</td></tr>
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Gerardo Arteaga</td><td>Monterrey</td><td>27</td><td>25</td></tr>
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Julián Araujo</td><td>Bournemouth</td><td>24</td><td>15</td></tr>
-        <tr><td><span class="pos-badge pos-def">DEF</span></td><td>Víctor Guzmán</td><td>Monterrey</td><td>24</td><td>8</td></tr>
-
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Edson Álvarez</td><td>West Ham</td><td>29</td><td>84</td></tr>
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Luis Chávez</td><td>Dynamo Moscow</td><td>30</td><td>42</td></tr>
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Orbelín Pineda</td><td>AEK Athens</td><td>30</td><td>70</td></tr>
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Carlos Rodríguez</td><td>Cruz Azul</td><td>29</td><td>55</td></tr>
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Érick Sánchez</td><td>Club América</td><td>26</td><td>22</td></tr>
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Luis Romo</td><td>Monterrey</td><td>31</td><td>48</td></tr>
-        <tr><td><span class="pos-badge pos-mid">MID</span></td><td>Marcel Ruiz</td><td>Toluca</td><td>24</td><td>10</td></tr>
-
-        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Santiago Giménez</td><td>Milan</td><td>25</td><td>40</td></tr>
-        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Hirving Lozano</td><td>PSV</td><td>31</td><td>70</td></tr>
-        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Raúl Jiménez</td><td>Fulham</td><td>35</td><td>105</td></tr>
-        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Julián Quiñones</td><td>Al-Qadsiah</td><td>29</td><td>18</td></tr>
-        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>Uriel Antuna</td><td>Cruz Azul</td><td>29</td><td>60</td></tr>
-        <tr><td><span class="pos-badge pos-fwd">FWD</span></td><td>César Huerta</td><td>Pumas UNAM</td><td>25</td><td>24</td></tr>
+        <tr><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td></tr>
       </tbody>
     </table>
 
-    <!-- World Cup History -->
     <h2>World Cup History</h2>
     <div class="prose">
-      <p>Historical results are being refreshed from official competition records.</p>
-      <p>This page currently focuses on player-prop relevance (roles, volume and projected markets) rather than final historical tables.</p>
+      <p>Historical table is intentionally withheld until we load a verified source for Mexico team history in this build.</p>
+      <p>No synthetic rankings, outcomes, or records are shown on this page.</p>
     </div>
 
-    <!-- Player Props -->
-    <h2 id="player-props">Player Props</h2>
-    <div class="props-list">
-      <div class="prop-item hot">
-        <span class="prop-name">Santiago Gimenez: Tournament Goals</span>
-        <span class="prop-value">O/U 2.5</span>
-      </div>
-      <div class="prop-item">
-        <span class="prop-name">Hirving Lozano: Shots on Target</span>
-        <span class="prop-value">O/U 1.5</span>
-      </div>
-      <div class="prop-item">
-        <span class="prop-name">Edson Alvarez: Tackles</span>
-        <span class="prop-value">O/U 2.5</span>
-      </div>
-    </div>
+    <h2>Player Props</h2>
+    <div class="prose"><p>Player prop lines for Mexico are <strong>TBD</strong> for this page revision.</p></div>
 
     <h2>Team Props</h2>
-    <div class="props-list">
-      <div class="prop-item">
-        <span class="prop-name">Total Group Stage Goals</span>
-        <span class="prop-value">O/U 7.5</span>
-      </div>
-      <div class="prop-item hot">
-        <span class="prop-name">Clean Sheets (Group Stage)</span>
-        <span class="prop-value">O/U 2.5</span>
-      </div>
-      <div class="prop-item">
-        <span class="prop-name">Group Stage Points</span>
-        <span class="prop-value">O/U 7.5</span>
-      </div>
-      <div class="prop-item">
-        <span class="prop-name">Furthest Round Reached</span>
-        <span class="prop-value">Final</span>
-      </div>
-    </div>
+    <div class="prose"><p>Team prop lines are <strong>TBD</strong> until pricing is published.</p></div>
 
-    <!-- CTA -->
-    <div class="cta-block">
-      <h3>World Cup player props are coming</h3>
-      <p>Get early access when World Cup lines on players go live.</p>
-      <a href="#notify-form" class="cta-btn">Join the early access list →</a>
-    </div>
-
-    <!-- Related -->
     <h2>Related</h2>
-    <div class="related-grid">
-      <a href="../usa/index.html">USA<span>Team preview</span></a>
-      <a href="../canada/index.html">Canada<span>Team preview</span></a>
-      <a href="../../index.html">World Cup 2026<span>Main hub</span></a>
-      <a href="https://wcprops.app/world-cup-2026/players/">Top Players<span>Player pages</span></a>
+    <div class="related">
+      <a href="../usa/index.html">USA<span style="display:block;color:#8c8c8c;font-weight:400;font-size:.76rem;">Team preview</span></a>
+      <a href="../canada/index.html">Canada<span style="display:block;color:#8c8c8c;font-weight:400;font-size:.76rem;">Team preview</span></a>
+      <a href="../../index.html">World Cup 2026<span style="display:block;color:#8c8c8c;font-weight:400;font-size:.76rem;">Main hub</span></a>
+      <a href="https://wcprops.app/world-cup-2026/players/">Players Hub<span style="display:block;color:#8c8c8c;font-weight:400;font-size:.76rem;">All player pages</span></a>
     </div>
-
-  
-    <!-- Email Capture -->
-    <div style="margin:2rem 0;padding:1.5rem;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius, 20px);box-shadow:0 1px 2px rgba(0,0,0,0.03);text-align:center;">
-      <div style="font-size:1rem;font-weight:700;margin-bottom:0.3rem;">Get notified when player props go live</div>
-      <div style="font-size:0.8rem;color:#8c8c8c;margin-bottom:0.8rem;">We'll email you when prop markets open for World Cup 2026</div>
-      <form id="notify-form" style="display:flex;gap:0.5rem;max-width:400px;margin:0 auto;">
-        <input type="email" id="notify-email" placeholder="your@email.com" required style="flex:1;padding:0.6rem 1rem;border:1.5px solid #ebebeb;border-radius:50px;font-size:0.85rem;font-family:inherit;outline:none;" onfocus="this.style.borderColor='#00b894'" onblur="this.style.borderColor='#ebebeb'">
-        <button type="submit" style="background:#00b894;color:white;border:none;padding:0.6rem 1.5rem;border-radius:50px;font-size:0.85rem;font-weight:700;cursor:pointer;font-family:inherit;">Notify Me</button>
-      </form>
-      <div id="notify-success" style="display:none;margin-top:0.8rem;font-size:0.85rem;color:#009975;font-weight:600;"></div>
-    </div>
-    <script>
-    document.getElementById('notify-form').addEventListener('submit', function(e) {
-      e.preventDefault();
-      var email = document.getElementById('notify-email').value;
-      var btn = this.querySelector('button');
-      btn.textContent = '...';
-      btn.disabled = true;
-      fetch('https://formspree.io/f/mbdzpyjb', {
-        method: 'POST',
-        headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
-        body: JSON.stringify({email: email, source: 'wcprops.app', page: window.location.pathname})
-      }).then(function(r) {
-        document.getElementById('notify-form').style.display = 'none';
-        document.getElementById('notify-success').style.display = 'block';
-        document.getElementById('notify-success').textContent = "You're on the list! We'll notify you when player props go live.";
-      }).catch(function() {
-        btn.textContent = 'Notify Me';
-        btn.disabled = false;
-      });
-    });
-    </script>
-
-  </article>
+  </div>
 
   <footer>
-    <a href="../../index.html">World Cup 2026</a> · 
-    <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> · 
-    <a href="https://wcprops.app/world-cup-2026/players/">Players</a> · 
-    <a href="https://wcprops.app/world-cup-2026/predictions/">Predictions</a>
-    <p style="margin-top:0.5rem;">&copy; 2026 WC Props · Stats from public sources · Not financial advice</p>
+    <a href="../../index.html">World Cup 2026</a> ·
+    <a href="https://wcprops.app/world-cup-2026/teams/">Teams</a> ·
+    <a href="https://wcprops.app/world-cup-2026/players/">Players</a>
+    <p style="margin-top:.5rem;">© 2026 WC Props · Data-first build · No fabricated stats</p>
   </footer>
-
 </body>
 </html>
