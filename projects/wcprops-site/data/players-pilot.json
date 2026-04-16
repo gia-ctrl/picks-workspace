@@ -1,0 +1,5058 @@
+[
+  {
+    "url": "https://www.sofascore.com/player/lionel-messi/12994",
+    "data": {
+      "player": {
+        "name": "Lionel Messi",
+        "slug": "lionel-messi",
+        "shortName": "L. Messi",
+        "team": {
+          "name": "Inter Miami CF",
+          "slug": "inter-miami-cf",
+          "shortName": "Inter Miami",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "MLS",
+            "slug": "mls",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 0,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA",
+                "slug": "usa"
+              },
+              "id": 26,
+              "flag": "usa",
+              "alpha2": "US",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "الولايات المتحدة",
+                  "ru": "Соединенные Штаты"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "uniqueTournament": {
+              "name": "MLS",
+              "slug": "mls",
+              "primaryColorHex": "#e2231a",
+              "secondaryColorHex": "#062f69",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "priority": 0,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA",
+                  "slug": "usa"
+                },
+                "id": 26,
+                "flag": "usa",
+                "alpha2": "US",
+                "fieldTranslations": {
+                  "nameTranslation": {
+                    "ar": "الولايات المتحدة",
+                    "ru": "Соединенные Штаты"
+                  },
+                  "shortNameTranslation": {}
+                }
+              },
+              "userCount": 88895,
+              "country": {},
+              "id": 242,
+              "displayInverseHomeAwayTeams": false,
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "الدوري الأمريكي لكرة القدم",
+                  "bn": "এমএলএস",
+                  "hi": "एमएलएस"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "priority": 390,
+            "isLive": false,
+            "id": 18,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الدوري الأمريكي لكرة القدم",
+                "bn": "এমএলএস",
+                "hi": "एमएलएस"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "primaryUniqueTournament": {
+            "name": "MLS",
+            "slug": "mls",
+            "primaryColorHex": "#e2231a",
+            "secondaryColorHex": "#062f69",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 0,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA",
+                "slug": "usa"
+              },
+              "id": 26,
+              "flag": "usa",
+              "alpha2": "US",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "الولايات المتحدة",
+                  "ru": "Соединенные Штаты"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "userCount": 88895,
+            "country": {},
+            "id": 242,
+            "displayInverseHomeAwayTeams": false,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الدوري الأمريكي لكرة القدم",
+                "bn": "এমএলএস",
+                "hi": "एमएलएस"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 1630261,
+          "nameCode": "MIA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA",
+            "slug": "usa"
+          },
+          "id": 337602,
+          "teamColors": {
+            "primary": "#212322",
+            "secondary": "#f6b5cc",
+            "text": "#f6b5cc"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إنتر ميامي",
+              "hi": "इंटर मिआमि सीऍफ़",
+              "ru": "Интер Майами"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "position": "F",
+        "positionsDetailed": [
+          "ST",
+          "RW",
+          "AM"
+        ],
+        "jerseyNumber": "10",
+        "height": 169,
+        "dateOfBirth": "1987-06-24T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 2224381,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 12994,
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 551491200,
+        "proposedMarketValue": 16300000,
+        "proposedMarketValueRaw": {
+          "value": 16300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليونيل ميسي",
+            "bn": "লিওনেল মেসি",
+            "hi": "लियोनेल मेसी",
+            "ru": "Лионель Месси"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. ميسي",
+            "bn": "এল. মেসি",
+            "hi": "एल. मेसी",
+            "ru": "Л. Месси"
+          }
+        }
+      },
+      "transfers": [
+        {
+          "player": {
+            "name": "Lionel Messi",
+            "slug": "lionel-messi",
+            "shortName": "L. Messi",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 2224381,
+            "gender": "M",
+            "id": 12994,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ليونيل ميسي",
+                "bn": "লিওনেল মেসি",
+                "hi": "लियोनेल मेसी",
+                "ru": "Лионель Месси"
+              },
+              "shortNameTranslation": {
+                "ar": "ل. ميسي",
+                "bn": "এল. মেসি",
+                "hi": "एल. मेसी",
+                "ru": "Л. Месси"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Paris Saint-Germain",
+            "slug": "paris-saint-germain",
+            "shortName": "PSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3064836,
+            "nameCode": "PSG",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1644,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#ff1541",
+              "text": "#ff1541"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باريس سان جيرمان",
+                "hi": "पेरिस सेंट-जर्मेन",
+                "ru": "Пари Сен-Жермен"
+              },
+              "shortNameTranslation": {
+                "bn": "পিএসজি",
+                "hi": "पीएसजी"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Inter Miami CF",
+            "slug": "inter-miami-cf",
+            "shortName": "Inter Miami",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1630261,
+            "nameCode": "MIA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 337602,
+            "teamColors": {
+              "primary": "#212322",
+              "secondary": "#f6b5cc",
+              "text": "#f6b5cc"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إنتر ميامي",
+                "hi": "इंटर मिआमि सीऍफ़",
+                "ru": "Интер Майами"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "fromTeamName": "Paris Saint-Germain",
+          "toTeamName": "Inter Miami CF",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "Free",
+          "id": 1640648,
+          "transferDateTimestamp": 1689379200,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Lionel Messi",
+            "slug": "lionel-messi",
+            "shortName": "L. Messi",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 2224381,
+            "gender": "M",
+            "id": 12994,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ليونيل ميسي",
+                "bn": "লিওনেল মেসি",
+                "hi": "लियोनेल मेसी",
+                "ru": "Лионель Месси"
+              },
+              "shortNameTranslation": {
+                "ar": "ل. ميسي",
+                "bn": "এল. মেসি",
+                "hi": "एल. मेसी",
+                "ru": "Л. Месси"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "FC Barcelona",
+            "slug": "barcelona",
+            "shortName": "Barcelona",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 6989504,
+            "nameCode": "BAR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2817,
+            "teamColors": {
+              "primary": "#154284",
+              "secondary": "#9d1009",
+              "text": "#9d1009"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برشلونة",
+                "bn": "বার্সেলোনা",
+                "hi": "बार्सिलोना",
+                "ru": "Барселона"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "transferTo": {
+            "name": "Paris Saint-Germain",
+            "slug": "paris-saint-germain",
+            "shortName": "PSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3064836,
+            "nameCode": "PSG",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1644,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#ff1541",
+              "text": "#ff1541"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باريس سان جيرمان",
+                "hi": "पेरिस सेंट-जर्मेन",
+                "ru": "Пари Сен-Жермен"
+              },
+              "shortNameTranslation": {
+                "bn": "পিএসজি",
+                "hi": "पीएसजी"
+              }
+            }
+          },
+          "fromTeamName": "FC Barcelona",
+          "toTeamName": "Paris Saint-Germain",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "Free",
+          "id": 1612894,
+          "transferDateTimestamp": 1628553600,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Lionel Messi",
+            "slug": "lionel-messi",
+            "shortName": "L. Messi",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 2224381,
+            "gender": "M",
+            "id": 12994,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ليونيل ميسي",
+                "bn": "লিওনেল মেসি",
+                "hi": "लियोनेल मेसी",
+                "ru": "Лионель Месси"
+              },
+              "shortNameTranslation": {
+                "ar": "ل. ميسي",
+                "bn": "এল. মেসি",
+                "hi": "एल. मेसी",
+                "ru": "Л. Месси"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Barcelona Atlètic",
+            "slug": "barcelona-atletic",
+            "shortName": "Barcelona Atlètic",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 65370,
+            "nameCode": "FCB",
+            "disabled": false,
+            "national": false,
+            "parentTeam": {
+              "name": "FC Barcelona",
+              "slug": "barcelona",
+              "shortName": "Barcelona",
+              "gender": "M",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "userCount": 6989504,
+              "nameCode": "BAR",
+              "disabled": false,
+              "national": false,
+              "type": 0,
+              "id": 2817,
+              "teamColors": {
+                "primary": "#154284",
+                "secondary": "#9d1009",
+                "text": "#9d1009"
+              },
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "برشلونة",
+                  "bn": "বার্সেলোনা",
+                  "hi": "बार्सिलोना",
+                  "ru": "Барселона"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "type": 0,
+            "id": 24343,
+            "teamColors": {
+              "primary": "#990000",
+              "secondary": "#000066",
+              "text": "#000066"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برشلونة أتلتيك",
+                "ru": "Барселона Атлетик"
+              },
+              "shortNameTranslation": {
+                "ar": "برشلونة أتلتيك"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "FC Barcelona",
+            "slug": "barcelona",
+            "shortName": "Barcelona",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 6989504,
+            "nameCode": "BAR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2817,
+            "teamColors": {
+              "primary": "#154284",
+              "secondary": "#9d1009",
+              "text": "#9d1009"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برشلونة",
+                "bn": "বার্সেলোনা",
+                "hi": "बार्सिलोना",
+                "ru": "Барселона"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "fromTeamName": "Barcelona Atlètic",
+          "toTeamName": "FC Barcelona",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 3240960,
+          "transferDateTimestamp": 1120176000,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Lionel Messi",
+            "slug": "lionel-messi",
+            "shortName": "L. Messi",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 2224381,
+            "gender": "M",
+            "id": 12994,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ليونيل ميسي",
+                "bn": "লিওনেল মেসি",
+                "hi": "लियोनेल मेसी",
+                "ru": "Лионель Месси"
+              },
+              "shortNameTranslation": {
+                "ar": "ل. ميسي",
+                "bn": "এল. মেসি",
+                "hi": "एल. मेसी",
+                "ru": "Л. Месси"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Barcelona U20",
+            "slug": "barcelona-u20",
+            "shortName": "Barcelona U20",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3432,
+            "nameCode": "BAR",
+            "national": false,
+            "type": 0,
+            "id": 168946,
+            "teamColors": {
+              "primary": "#154284",
+              "secondary": "#9d1009",
+              "text": "#9d1009"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برشلونة تحت 20"
+              },
+              "shortNameTranslation": {
+                "ar": "برشلونة تحت 20"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Barcelona Atlètic",
+            "slug": "barcelona-atletic",
+            "shortName": "Barcelona Atlètic",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 65370,
+            "nameCode": "FCB",
+            "disabled": false,
+            "national": false,
+            "parentTeam": {
+              "name": "FC Barcelona",
+              "slug": "barcelona",
+              "shortName": "Barcelona",
+              "gender": "M",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "userCount": 6989504,
+              "nameCode": "BAR",
+              "disabled": false,
+              "national": false,
+              "type": 0,
+              "id": 2817,
+              "teamColors": {
+                "primary": "#154284",
+                "secondary": "#9d1009",
+                "text": "#9d1009"
+              },
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "برشلونة",
+                  "bn": "বার্সেলোনা",
+                  "hi": "बार्सिलोना",
+                  "ru": "Барселона"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "type": 0,
+            "id": 24343,
+            "teamColors": {
+              "primary": "#990000",
+              "secondary": "#000066",
+              "text": "#000066"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برشلونة أتلتيك",
+                "ru": "Барселона Атлетик"
+              },
+              "shortNameTranslation": {
+                "ar": "برشلونة أتلتيك"
+              }
+            }
+          },
+          "fromTeamName": "Barcelona U20",
+          "toTeamName": "Barcelona Atlètic",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 1712255,
+          "transferDateTimestamp": 1078444800,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "seoContent": {
+        "about": "<p>Lionel Messi is 38 years old (Jun 24, 1987), 169 cm tall and plays for Inter Miami CF.</p><p>Lionel Messi prefers to play with left foot. His jersey number is 10.</p><p>Lionel Messi career statistics, match ratings, heatmap and goals are available on Sofascore for current and previous seasons. Last player match was Inter Miami CF - New York Red Bulls (2 - 2) and Lionel Messi received 9 Sofascore rating.</p><p><a href=\"https://www.sofascore.com/football/team/inter-miami-cf/337602\">Inter Miami CF</a> is playing their next match on Apr 18, 2026, 8:30:00 PM UTC against Colorado Rapids - Inter Miami CF in MLS.</p><p>If Lionel Messi is going to be in Inter Miami CF lineup, it will be confirmed on Sofascore one hour before the match starts.</p><p>If Lionel Messi plays you will also be able to follow his live Sofascore rating, statistics and heatmap. Lionel Messi football player profile displays all matches and competitions with statistics for all the matches Lionel Messi played in. Most important stats for each competition, including average Sofascore rating, matches played, goals, assists, cards and other relevant data are also displayed.</p>",
+        "description": "Lionel Messi profile player page. Goals, matches, stats, player ratings and more.",
+        "heading": "Lionel Messi stats, ratings and goals",
+        "title": "Lionel Messi stats and ratings | Sofascore"
+      },
+      "lastYearSummary": [
+        {
+          "type": "event",
+          "timestamp": 1746315000,
+          "value": "7.8",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1746909000,
+          "value": "8",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1747276200,
+          "value": "6.5",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1747609200,
+          "value": "7.4",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1748129400,
+          "value": "7.6",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1748475000,
+          "value": "9.7",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1748734200,
+          "value": "10",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1749171600,
+          "value": "7.3",
+          "uniqueTournamentId": 295
+        },
+        {
+          "type": "event",
+          "timestamp": 1749600000,
+          "value": "8.2",
+          "uniqueTournamentId": 295
+        },
+        {
+          "type": "event",
+          "timestamp": 1749945600,
+          "value": "8.1",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1750359600,
+          "value": "8.3",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1750726800,
+          "value": "7.5",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1751212800,
+          "value": "7.6",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1751758200,
+          "value": "9.7",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1752103800,
+          "value": "8.8",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1752363900,
+          "value": "8.9",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1752708600,
+          "value": "7.2",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1752967800,
+          "value": "9.9",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1753918200,
+          "value": "10",
+          "uniqueTournamentId": 13783
+        },
+        {
+          "type": "event",
+          "timestamp": 1754175600,
+          "value": "6.5",
+          "uniqueTournamentId": 13783
+        },
+        {
+          "type": "injury",
+          "timestamp": 1754265600,
+          "value": "1206022"
+        },
+        {
+          "type": "event",
+          "timestamp": 1755387000,
+          "value": "9",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "injury",
+          "timestamp": 1755475200,
+          "value": "946823"
+        },
+        {
+          "type": "missing",
+          "timestamp": 1755734400
+        },
+        {
+          "type": "missing",
+          "timestamp": 1755991800
+        },
+        {
+          "type": "event",
+          "timestamp": 1756341000,
+          "value": "9",
+          "uniqueTournamentId": 13783
+        },
+        {
+          "type": "event",
+          "timestamp": 1756684800,
+          "value": "6.4",
+          "uniqueTournamentId": 13783
+        },
+        {
+          "type": "event",
+          "timestamp": 1757028600,
+          "value": "9.3",
+          "uniqueTournamentId": 295
+        },
+        {
+          "type": "event",
+          "timestamp": 1757806200,
+          "value": "6.6",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1758065400,
+          "value": "8.4",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1758411000,
+          "value": "10",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1758756600,
+          "value": "10",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1759005000,
+          "value": "8.5",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1759275000,
+          "value": "7.1",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1759620600,
+          "value": "9.1",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1760225400,
+          "value": "9.6",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1760486400,
+          "value": "9.1",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1760824800,
+          "value": "10",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1761350400,
+          "value": "8.8",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1762039800,
+          "value": "7.2",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1762650000,
+          "value": "10",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1763136000,
+          "value": "8.1",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1763935200,
+          "value": "10",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1764457200,
+          "value": "7.4",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1765049400,
+          "value": "8.5",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1769292000,
+          "value": "7",
+          "uniqueTournamentId": 18553
+        },
+        {
+          "type": "event",
+          "timestamp": 1769896800,
+          "value": "7.4",
+          "uniqueTournamentId": 18553
+        },
+        {
+          "type": "event",
+          "timestamp": 1770508800,
+          "value": "8.5",
+          "uniqueTournamentId": 18553
+        },
+        {
+          "type": "event",
+          "timestamp": 1771727400,
+          "value": "6.6",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1772409600,
+          "value": "9.5",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1772919000,
+          "value": "7.9",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1773271800,
+          "value": "6.6",
+          "uniqueTournamentId": 498
+        },
+        {
+          "type": "injury",
+          "timestamp": 1773399634,
+          "value": "259200"
+        },
+        {
+          "type": "event",
+          "timestamp": 1773874800,
+          "value": "8.7",
+          "uniqueTournamentId": 498
+        },
+        {
+          "type": "event",
+          "timestamp": 1774198800,
+          "value": "8",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1774653300,
+          "value": "7.5",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1774999800,
+          "value": "8.9",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1775346300,
+          "value": "8.7",
+          "uniqueTournamentId": 242
+        },
+        {
+          "type": "event",
+          "timestamp": 1775950200,
+          "value": "9",
+          "uniqueTournamentId": 242
+        }
+      ],
+      "uniqueTournamentsMap": {
+        "242": {
+          "name": "MLS",
+          "slug": "mls",
+          "primaryColorHex": "#e2231a",
+          "secondaryColorHex": "#062f69",
+          "category": {
+            "name": "USA",
+            "slug": "usa",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "id": 26,
+            "flag": "usa",
+            "alpha2": "US",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الولايات المتحدة",
+                "ru": "Соединенные Штаты"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 88895,
+          "id": 242,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الدوري الأمريكي لكرة القدم",
+              "bn": "এমএলএস",
+              "hi": "एमएलएस"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "295": {
+          "name": "World Cup Qual. CONMEBOL",
+          "slug": "world-championship-qual-conmebol",
+          "primaryColorHex": "#9a1133",
+          "secondaryColorHex": "#c11541",
+          "category": {
+            "name": "South America",
+            "slug": "south-america",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 18,
+            "id": 1470,
+            "flag": "south-america",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أمريكا الجنوبية",
+                "ru": "Южная Америка"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 165944,
+          "id": 295,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "تصفيات كأس العالم في أمريكا الجنوبية",
+              "bn": "ওয়ার্ল্ড চ্যাম্পিয়নশিপ কোয়াল. কনমেবল",
+              "hi": "वर्ल्ड चैंपियनशिप क्वालीफिकेशन कॉनमेबोल"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "357": {
+          "name": "FIFA Club World Cup",
+          "slug": "club-world-championship",
+          "primaryColorHex": "#8d1536",
+          "secondaryColorHex": "#0bbda4",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 574013,
+          "id": 357,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "بطولة العالم للأندية",
+              "bn": "ক্লাব ওয়ার্ল্ড চ্যাম্পিয়নশিপ",
+              "hi": "क्लब वर्ल्ड चैंपियनशिप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "498": {
+          "name": "CONCACAF Champions Cup",
+          "slug": "concacaf-champions-cup",
+          "primaryColorHex": "#333334",
+          "secondaryColorHex": "#898a8a",
+          "category": {
+            "name": "North & Central America",
+            "slug": "north-central-america",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 15,
+            "id": 1469,
+            "flag": "north-and-central-america",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أمريكا الشمالية والوسطى",
+                "ru": "Северная и Центральная Америка"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 28431,
+          "id": 498,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس أبطال الكونكاكاف",
+              "bn": "কনকাকাফ চ্যাম্পিয়ন্স কাপ",
+              "hi": "कोंकाकैफ चैंपियंस कप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "851": {
+          "name": "International Friendly Games",
+          "slug": "int-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 93715,
+          "id": 851,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مباريات ودية دولية",
+              "hi": "इंटरनेशनल फ्रेंडली गेम्स",
+              "bn": "ইন্টারন্যাশনাল ফ্রেন্ডলি গেমস"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "13783": {
+          "name": "Leagues Cup",
+          "slug": "leagues-cup",
+          "secondaryColorHex": "#828282",
+          "category": {
+            "name": "North & Central America",
+            "slug": "north-central-america",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 15,
+            "id": 1469,
+            "flag": "north-and-central-america",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أمريكا الشمالية والوسطى",
+                "ru": "Северная и Центральная Америка"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 29240,
+          "id": 13783,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس الدوري",
+              "bn": "লিগস কাপ",
+              "hi": "लीग्स कप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "18553": {
+          "name": "MLS Preseason",
+          "slug": "mls-preseason",
+          "primaryColorHex": "#e2231a",
+          "secondaryColorHex": "#3c72be",
+          "category": {
+            "name": "USA",
+            "slug": "usa",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "id": 26,
+            "flag": "usa",
+            "alpha2": "US",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الولايات المتحدة",
+                "ru": "Соединенные Штаты"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 4136,
+          "id": 18553,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الموسم التحضيري للدوري الأمريكي",
+              "bn": "এমএলএস প্রিসিজন",
+              "hi": "एमएलएस प्रीसीजन"
+            },
+            "shortNameTranslation": {}
+          }
+        }
+      },
+      "hasPentagon": true,
+      "hasSeasonStatistics": true
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/player/vinicius-junior/868812",
+    "data": {
+      "player": {
+        "name": "Vinicius Júnior",
+        "slug": "vinicius-junior",
+        "shortName": "Vinícius Jr.",
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "LaLiga",
+            "slug": "laliga",
+            "category": {
+              "name": "Spain",
+              "slug": "spain",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 9,
+              "country": {
+                "alpha2": "ES",
+                "alpha3": "ESP",
+                "name": "Spain",
+                "slug": "spain"
+              },
+              "id": 32,
+              "flag": "spain",
+              "alpha2": "ES",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إسبانيا",
+                  "hi": "स्पेन",
+                  "bn": "স্পেন",
+                  "ru": "Испания"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "uniqueTournament": {
+              "name": "LaLiga",
+              "slug": "laliga",
+              "primaryColorHex": "#2f4a89",
+              "secondaryColorHex": "#f4a32e",
+              "category": {
+                "name": "Spain",
+                "slug": "spain",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "priority": 9,
+                "country": {
+                  "alpha2": "ES",
+                  "alpha3": "ESP",
+                  "name": "Spain",
+                  "slug": "spain"
+                },
+                "id": 32,
+                "flag": "spain",
+                "alpha2": "ES",
+                "fieldTranslations": {
+                  "nameTranslation": {
+                    "ar": "إسبانيا",
+                    "hi": "स्पेन",
+                    "bn": "স্পেন",
+                    "ru": "Испания"
+                  },
+                  "shortNameTranslation": {}
+                }
+              },
+              "userCount": 834329,
+              "country": {},
+              "id": 8,
+              "displayInverseHomeAwayTeams": false,
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "الدوري الإسباني",
+                  "hi": "ला लिगा",
+                  "bn": "লা লীগা"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "priority": 699,
+            "isLive": false,
+            "id": 36,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "hi": "ला लीगा",
+                "ar": "الدوري الإسباني",
+                "bn": "লা লীগা"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "primaryUniqueTournament": {
+            "name": "LaLiga",
+            "slug": "laliga",
+            "primaryColorHex": "#2f4a89",
+            "secondaryColorHex": "#f4a32e",
+            "category": {
+              "name": "Spain",
+              "slug": "spain",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 9,
+              "country": {
+                "alpha2": "ES",
+                "alpha3": "ESP",
+                "name": "Spain",
+                "slug": "spain"
+              },
+              "id": 32,
+              "flag": "spain",
+              "alpha2": "ES",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إسبانيا",
+                  "hi": "स्पेन",
+                  "bn": "স্পেন",
+                  "ru": "Испания"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "userCount": 834329,
+            "country": {},
+            "id": 8,
+            "displayInverseHomeAwayTeams": false,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الدوري الإسباني",
+                "hi": "ला लिगा",
+                "bn": "লা লীগা"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 7317389,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "ES",
+            "alpha3": "ESP",
+            "name": "Spain",
+            "slug": "spain"
+          },
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "position": "F",
+        "positionsDetailed": [
+          "ST",
+          "LW"
+        ],
+        "jerseyNumber": "7",
+        "height": 176,
+        "dateOfBirth": "2000-07-12T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 1311728,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 868812,
+        "shirtNumber": 7,
+        "dateOfBirthTimestamp": 963360000,
+        "proposedMarketValue": 156000000,
+        "proposedMarketValueRaw": {
+          "value": 156000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فينيسيوس جونيور",
+            "bn": "ভিনিসিয়াস জুনিয়র",
+            "hi": "विनीसियस जूनियर"
+          },
+          "shortNameTranslation": {
+            "ar": "فينيسيوس",
+            "bn": "ভিনিসিয়াস",
+            "hi": "विनीसियस"
+          }
+        }
+      },
+      "transfers": [
+        {
+          "player": {
+            "name": "Vinicius Júnior",
+            "slug": "vinicius-junior",
+            "shortName": "Vinícius Jr.",
+            "position": "F",
+            "jerseyNumber": "7",
+            "userCount": 1311728,
+            "gender": "M",
+            "id": 868812,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "فينيسيوس جونيور",
+                "bn": "ভিনিসিয়াস জুনিয়র",
+                "hi": "विनीसियस जूनियर"
+              },
+              "shortNameTranslation": {
+                "ar": "فينيسيوس",
+                "bn": "ভিনিসিয়াস",
+                "hi": "विनीसियस"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Flamengo",
+            "slug": "flamengo",
+            "shortName": "Flamengo",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1029630,
+            "nameCode": "FLA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 5981,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "فلامينغو",
+                "ru": "ФК Фламенго РЖ"
+              },
+              "shortNameTranslation": {
+                "ar": "فلامينغو"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7317389,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "fromTeamName": "Flamengo",
+          "toTeamName": "Real Madrid",
+          "type": 3,
+          "transferFee": 45000000,
+          "transferFeeDescription": "45M €",
+          "id": 533242,
+          "transferDateTimestamp": 1531353600,
+          "transferFeeRaw": {
+            "value": 45000000,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Vinicius Júnior",
+            "slug": "vinicius-junior",
+            "shortName": "Vinícius Jr.",
+            "position": "F",
+            "jerseyNumber": "7",
+            "userCount": 1311728,
+            "gender": "M",
+            "id": 868812,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "فينيسيوس جونيور",
+                "bn": "ভিনিসিয়াস জুনিয়র",
+                "hi": "विनीसियस जूनियर"
+              },
+              "shortNameTranslation": {
+                "ar": "فينيسيوس",
+                "bn": "ভিনিসিয়াস",
+                "hi": "विनीसियस"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Flamengo U20",
+            "slug": "flamengo-u20",
+            "shortName": "Flamengo U20",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 38307,
+            "nameCode": "FLA",
+            "disabled": false,
+            "national": false,
+            "parentTeam": {
+              "name": "Flamengo",
+              "slug": "flamengo",
+              "shortName": "Flamengo",
+              "gender": "M",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "userCount": 1029630,
+              "nameCode": "FLA",
+              "disabled": false,
+              "national": false,
+              "type": 0,
+              "id": 5981,
+              "teamColors": {
+                "primary": "#ff0000",
+                "secondary": "#000000",
+                "text": "#000000"
+              },
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "فلامينغو",
+                  "ru": "ФК Фламенго РЖ"
+                },
+                "shortNameTranslation": {
+                  "ar": "فلامينغو"
+                }
+              }
+            },
+            "type": 0,
+            "id": 199329,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "فلامينغو تحت 20"
+              },
+              "shortNameTranslation": {
+                "ar": "فلامينغو تحت 20"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Flamengo",
+            "slug": "flamengo",
+            "shortName": "Flamengo",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1029630,
+            "nameCode": "FLA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 5981,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "فلامينغو",
+                "ru": "ФК Фламенго РЖ"
+              },
+              "shortNameTranslation": {
+                "ar": "فلامينغو"
+              }
+            }
+          },
+          "fromTeamName": "Flamengo U20",
+          "toTeamName": "Flamengo",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 60791,
+          "transferDateTimestamp": 1494201600,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "seoContent": {
+        "about": "<p>Vinicius Júnior is 25 years old (Jul 12, 2000), 176 cm tall and plays for Real Madrid.</p><p>Vinicius Júnior prefers to play with right foot. His jersey number is 7.</p><p>Vinicius Júnior career statistics, match ratings, heatmap and goals are available on Sofascore for current and previous seasons. Last player match was FC Bayern München - Real Madrid (4 - 3) and Vinicius Júnior received 6.6 Sofascore rating.</p><p><a href=\"https://www.sofascore.com/football/team/real-madrid/2829\">Real Madrid</a> is playing their next match on Apr 21, 2026, 7:30:00 PM UTC against Real Madrid - Deportivo Alavés in LaLiga.</p><p>If Vinicius Júnior is going to be in Real Madrid lineup, it will be confirmed on Sofascore one hour before the match starts.</p><p>If Vinicius Júnior plays you will also be able to follow his live Sofascore rating, statistics and heatmap. Vinicius Júnior football player profile displays all matches and competitions with statistics for all the matches Vinicius Júnior played in. Most important stats for each competition, including average Sofascore rating, matches played, goals, assists, cards and other relevant data are also displayed.</p>",
+        "description": "Vinicius Júnior profile player page. Goals, matches, stats, player ratings and more.",
+        "heading": "Vinicius Júnior stats, ratings and goals",
+        "title": "Vinicius Júnior stats and ratings | Sofascore"
+      },
+      "lastYearSummary": [
+        {
+          "type": "event",
+          "timestamp": 1746360000,
+          "value": "7.4",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1746972900,
+          "value": "7.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "injury",
+          "timestamp": 1747008000,
+          "value": "1206023"
+        },
+        {
+          "type": "missing",
+          "timestamp": 1747251000
+        },
+        {
+          "type": "event",
+          "timestamp": 1748096100,
+          "value": "6.9",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1749164400,
+          "value": "6.7",
+          "uniqueTournamentId": 295
+        },
+        {
+          "type": "event",
+          "timestamp": 1749602700,
+          "value": "6.7",
+          "uniqueTournamentId": 295
+        },
+        {
+          "type": "event",
+          "timestamp": 1750273200,
+          "value": "7",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1750618800,
+          "value": "7.3",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1750986000,
+          "value": "8.2",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1751396400,
+          "value": "7.8",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1751745600,
+          "value": "6.8",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1752088200,
+          "value": "6.7",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1755018000,
+          "value": "7",
+          "uniqueTournamentId": 853
+        },
+        {
+          "type": "event",
+          "timestamp": 1755630000,
+          "value": "7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1756063800,
+          "value": "8.4",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1756582200,
+          "value": "8.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1757772900,
+          "value": "6.5",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1758049200,
+          "value": "6.4",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1758377700,
+          "value": "7.4",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1758655800,
+          "value": "8.4",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1758982500,
+          "value": "6.1",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1759250700,
+          "value": "6.7",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1759604400,
+          "value": "9.8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1760094000,
+          "value": "8.2",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1760437800,
+          "value": "6.7",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1760900400,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1761159600,
+          "value": "7.2",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1761491700,
+          "value": "7.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1762027200,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1762286400,
+          "value": "6",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1762701300,
+          "value": "7.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1763222400,
+          "value": "7.3",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1763494200,
+          "value": "7",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1763928000,
+          "value": "6.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1764187200,
+          "value": "7.6",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1764532800,
+          "value": "7.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1764784800,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1765137600,
+          "value": "6.9",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1765396800,
+          "value": "6.6",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1765742400,
+          "value": "6.4",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1766260800,
+          "value": "8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1767539700,
+          "value": "7.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1767898800,
+          "value": "6.3",
+          "uniqueTournamentId": 213
+        },
+        {
+          "type": "event",
+          "timestamp": 1768158000,
+          "value": "8.1",
+          "uniqueTournamentId": 213
+        },
+        {
+          "type": "event",
+          "timestamp": 1768420800,
+          "value": "6.9",
+          "uniqueTournamentId": 329
+        },
+        {
+          "type": "event",
+          "timestamp": 1768654800,
+          "value": "6.9",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1768939200,
+          "value": "10",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1769284800,
+          "value": "7.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1769630400,
+          "value": "7.1",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1769950800,
+          "value": "8.1",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1771099200,
+          "value": "8.5",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1771358400,
+          "value": "7.6",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1771695000,
+          "value": "8.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1772049600,
+          "value": "8.1",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1772481600,
+          "value": "7.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1772827200,
+          "value": "7.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1773259200,
+          "value": "7.4",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1773518400,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1773777600,
+          "value": "7.3",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1774209600,
+          "value": "8.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1774555200,
+          "value": "6.7",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1775001600,
+          "value": "7.1",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1775312100,
+          "value": "6.8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1775588400,
+          "value": "7.1",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1775847600,
+          "value": "8.6",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1776279600,
+          "value": "6.6",
+          "uniqueTournamentId": 7
+        }
+      ],
+      "uniqueTournamentsMap": {
+        "7": {
+          "name": "UEFA Champions League",
+          "slug": "uefa-champions-league",
+          "primaryColorHex": "#062b5c",
+          "secondaryColorHex": "#086aab",
+          "category": {
+            "name": "Europe",
+            "slug": "europe",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 19,
+            "id": 1465,
+            "flag": "europe",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوروبا",
+                "bn": "ইউরোপ",
+                "hi": "यूरोप",
+                "ru": "Европа"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 1268935,
+          "id": 7,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "উয়েফা চ্যাম্পিয়ন্স লীগ",
+              "ar": "دوري أبطال أوروبا",
+              "hi": "यूईएफए चैंपियंस लीग",
+              "hr": "UEFA Liga prvaka"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "8": {
+          "name": "LaLiga",
+          "slug": "laliga",
+          "primaryColorHex": "#2f4a89",
+          "secondaryColorHex": "#f4a32e",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 9,
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إسبانيا",
+                "bn": "স্পেন",
+                "hi": "स्पेन",
+                "ru": "Испания"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 834329,
+          "id": 8,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الدوري الإسباني",
+              "hi": "ला लिगा",
+              "bn": "লা লীগা"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "213": {
+          "name": "Supercopa de España",
+          "slug": "supercopa-de-espana",
+          "primaryColorHex": "#daac6a",
+          "secondaryColorHex": "#4a919d",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 9,
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إسبانيا",
+                "bn": "স্পেন",
+                "hi": "स्पेन",
+                "ru": "Испания"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 106811,
+          "id": 213,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس السوبر الإسباني",
+              "bn": "স্প্যানিশ সুপার কাপ",
+              "hi": "सुपरकोपा डे एस्पाना"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "295": {
+          "name": "World Cup Qual. CONMEBOL",
+          "slug": "world-championship-qual-conmebol",
+          "primaryColorHex": "#9a1133",
+          "secondaryColorHex": "#c11541",
+          "category": {
+            "name": "South America",
+            "slug": "south-america",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 18,
+            "id": 1470,
+            "flag": "south-america",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أمريكا الجنوبية",
+                "ru": "Южная Америка"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 165944,
+          "id": 295,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "تصفيات كأس العالم في أمريكا الجنوبية",
+              "bn": "ওয়ার্ল্ড চ্যাম্পিয়নশিপ কোয়াল. কনমেবল",
+              "hi": "वर्ल्ड चैंपियनशिप क्वालीफिकेशन कॉनमेबोल"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "329": {
+          "name": "Copa del Rey",
+          "slug": "copa-del-rey",
+          "primaryColorHex": "#221C35",
+          "secondaryColorHex": "#fe0235",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 9,
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إسبانيا",
+                "bn": "স্পেন",
+                "hi": "स्पेन",
+                "ru": "Испания"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 183884,
+          "id": 329,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس ملك إسبانيا",
+              "bn": "কোপা দেল রে",
+              "hi": "कोपा डेल रे"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "357": {
+          "name": "FIFA Club World Cup",
+          "slug": "club-world-championship",
+          "primaryColorHex": "#8d1536",
+          "secondaryColorHex": "#0bbda4",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 574013,
+          "id": 357,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "بطولة العالم للأندية",
+              "bn": "ক্লাব ওয়ার্ল্ড চ্যাম্পিয়নশিপ",
+              "hi": "क्लब वर्ल्ड चैंपियनशिप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "851": {
+          "name": "International Friendly Games",
+          "slug": "int-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 93715,
+          "id": 851,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مباريات ودية دولية",
+              "hi": "इंटरनेशनल फ्रेंडली गेम्स",
+              "bn": "ইন্টারন্যাশনাল ফ্রেন্ডলি গেমস"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "853": {
+          "name": "Club Friendly Games",
+          "slug": "club-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 26523,
+          "id": 853,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "ক্লাব ফ্রেন্ডলি গেমস",
+              "ar": "مباريات ودية للأندية",
+              "hi": "क्लब फ्रेंडली गेम्स"
+            },
+            "shortNameTranslation": {}
+          }
+        }
+      },
+      "hasPentagon": true,
+      "hasSeasonStatistics": true
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/player/christian-pulisic/36850",
+    "error": "Status 404"
+  },
+  {
+    "url": "https://www.sofascore.com/player/jude-bellingham/934235",
+    "data": {
+      "player": {
+        "name": "Bukayo Saka",
+        "slug": "bukayo-saka",
+        "shortName": "B. Saka",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 10,
+              "country": {
+                "alpha2": "EN",
+                "alpha3": "ENG",
+                "name": "England",
+                "slug": "england"
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إنجلترا",
+                  "hi": "इंग्लैंड",
+                  "bn": "ইংল্যান্ড",
+                  "ru": "Англия"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "primaryColorHex": "#3c1c5a",
+              "secondaryColorHex": "#f80158",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "priority": 10,
+                "country": {
+                  "alpha2": "EN",
+                  "alpha3": "ENG",
+                  "name": "England",
+                  "slug": "england"
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN",
+                "fieldTranslations": {
+                  "nameTranslation": {
+                    "ar": "إنجلترا",
+                    "hi": "इंग्लैंड",
+                    "bn": "ইংল্যান্ড",
+                    "ru": "Англия"
+                  },
+                  "shortNameTranslation": {}
+                }
+              },
+              "userCount": 1186364,
+              "country": {},
+              "id": 17,
+              "displayInverseHomeAwayTeams": false,
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "الدوري الإنجليزي الممتاز",
+                  "hi": "प्रिमियर लीग",
+                  "bn": "প্রিমিয়ার লীগ"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "priority": 701,
+            "isLive": false,
+            "id": 1,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "hi": "प्रिमियर लीग",
+                "ar": "الدوري الإنجليزي الممتاز",
+                "bn": "প্রিমিয়ার লীগ"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "primaryColorHex": "#3c1c5a",
+            "secondaryColorHex": "#f80158",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 10,
+              "country": {
+                "alpha2": "EN",
+                "alpha3": "ENG",
+                "name": "England",
+                "slug": "england"
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إنجلترا",
+                  "hi": "इंग्लैंड",
+                  "bn": "ইংল্যান্ড",
+                  "ru": "Англия"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "userCount": 1186364,
+            "country": {},
+            "id": 17,
+            "displayInverseHomeAwayTeams": false,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الدوري الإنجليزي الممتاز",
+                "hi": "प्रिमियर लीग",
+                "bn": "প্রিমিয়ার লীগ"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 3371835,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "EN",
+            "alpha3": "ENG",
+            "name": "England",
+            "slug": "england"
+          },
+          "id": 42,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ارسنال",
+              "bn": "আর্সেনাল",
+              "hi": "आर्सेनल",
+              "ru": "Арсенал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "position": "F",
+        "positionsDetailed": [
+          "RW"
+        ],
+        "jerseyNumber": "7",
+        "height": 178,
+        "dateOfBirth": "2001-09-05T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 188732,
+        "deceased": false,
+        "gender": "M",
+        "injury": {
+          "reason": "Muscle Injury",
+          "status": "dayToDay",
+          "expectedReturn": 9,
+          "id": 19449,
+          "startDateTimestamp": 1774915200,
+          "updateDateTimestamp": 1776326427,
+          "endDateTimestamp": 1777622427
+        },
+        "country": {
+          "alpha2": "EN",
+          "alpha3": "ENG",
+          "name": "England",
+          "slug": "england"
+        },
+        "id": 934235,
+        "shirtNumber": 7,
+        "dateOfBirthTimestamp": 999648000,
+        "contractUntilTimestamp": 1909008000,
+        "proposedMarketValue": 126000000,
+        "proposedMarketValueRaw": {
+          "value": 126000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بوكايو ساكا",
+            "bn": "বুকায়ো সাকা",
+            "hi": "बुकायो साका"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ساكا",
+            "bn": "বি. সাকা",
+            "hi": "बी. साका"
+          }
+        }
+      },
+      "transfers": [
+        {
+          "player": {
+            "name": "Bukayo Saka",
+            "slug": "bukayo-saka",
+            "shortName": "B. Saka",
+            "position": "F",
+            "jerseyNumber": "7",
+            "userCount": 188732,
+            "gender": "M",
+            "id": 934235,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "بوكايو ساكا",
+                "bn": "বুকায়ো সাকা",
+                "hi": "बुकायो साका"
+              },
+              "shortNameTranslation": {
+                "ar": "ب. ساكا",
+                "bn": "বি. সাকা",
+                "hi": "बी. साका"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Arsenal U21",
+            "slug": "arsenal-u21",
+            "shortName": "Arsenal U21",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 12918,
+            "nameCode": "ARS",
+            "disabled": false,
+            "national": false,
+            "parentTeam": {
+              "name": "Arsenal",
+              "slug": "arsenal",
+              "shortName": "Arsenal",
+              "gender": "M",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "userCount": 3371835,
+              "nameCode": "ARS",
+              "disabled": false,
+              "national": false,
+              "type": 0,
+              "id": 42,
+              "teamColors": {
+                "primary": "#cc0000",
+                "secondary": "#ffffff",
+                "text": "#ffffff"
+              },
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "ارسنال",
+                  "bn": "আর্সেনাল",
+                  "hi": "आर्सेनल",
+                  "ru": "Арсенал"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "type": 0,
+            "id": 36554,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أرسنال تحت 21",
+                "bn": "আর্সেনাল আন্ডার21",
+                "hi": "आर्सेनल अंडर 21"
+              },
+              "shortNameTranslation": {
+                "ar": "أرسنال تحت 21"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Arsenal",
+            "slug": "arsenal",
+            "shortName": "Arsenal",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3371835,
+            "nameCode": "ARS",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 42,
+            "teamColors": {
+              "primary": "#cc0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ارسنال",
+                "bn": "আর্সেনাল",
+                "hi": "आर्सेनल",
+                "ru": "Арсенал"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "fromTeamName": "Arsenal U21",
+          "toTeamName": "Arsenal",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 923356,
+          "transferDateTimestamp": 1561939200,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "seoContent": {
+        "about": "<p>Bukayo Saka is 24 years old (Sep 5, 2001), 178 cm tall and plays for Arsenal.</p><p>Bukayo Saka prefers to play with left foot. His jersey number is 7.</p><p><a href=\"https://www.sofascore.com/football/team/arsenal/42\">Arsenal</a> is playing their next match on Apr 19, 2026, 3:30:00 PM UTC against Manchester City - Arsenal in Premier League.</p><p>If Bukayo Saka is going to be in Arsenal lineup, it will be confirmed on Sofascore one hour before the match starts.</p><p>If Bukayo Saka plays you will also be able to follow his live Sofascore rating, statistics and heatmap. Bukayo Saka football player profile displays all matches and competitions with statistics for all the matches Bukayo Saka played in. Most important stats for each competition, including average Sofascore rating, matches played, goals, assists, cards and other relevant data are also displayed.</p>",
+        "description": "Bukayo Saka profile player page. Goals, matches, stats, player ratings and more.",
+        "heading": "Bukayo Saka stats, ratings and goals",
+        "title": "Bukayo Saka stats and ratings | Sofascore"
+      },
+      "lastYearSummary": [
+        {
+          "type": "event",
+          "timestamp": 1746289800,
+          "value": "6.3",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1746644400,
+          "value": "7.7",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1746977400,
+          "value": "7.2",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1747582200,
+          "value": "7.7",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1748185200,
+          "value": "7",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1749581100,
+          "value": "6.3",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1753270200,
+          "value": "7.8",
+          "uniqueTournamentId": 853
+        },
+        {
+          "type": "event",
+          "timestamp": 1753615800,
+          "value": "6.9",
+          "uniqueTournamentId": 853
+        },
+        {
+          "type": "event",
+          "timestamp": 1753961400,
+          "value": "7.1",
+          "uniqueTournamentId": 853
+        },
+        {
+          "type": "event",
+          "timestamp": 1754499600,
+          "value": "7.1",
+          "uniqueTournamentId": 853
+        },
+        {
+          "type": "event",
+          "timestamp": 1754755200,
+          "value": "8.9",
+          "uniqueTournamentId": 1295
+        },
+        {
+          "type": "event",
+          "timestamp": 1755444600,
+          "value": "6.5",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "injury",
+          "timestamp": 1755907200,
+          "value": "2937600"
+        },
+        {
+          "type": "event",
+          "timestamp": 1755966600,
+          "value": "7.6",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "missing",
+          "timestamp": 1756654200
+        },
+        {
+          "type": "missing",
+          "timestamp": 1757174400
+        },
+        {
+          "type": "missing",
+          "timestamp": 1757443500
+        },
+        {
+          "type": "missing",
+          "timestamp": 1757763000
+        },
+        {
+          "type": "missing",
+          "timestamp": 1758041100
+        },
+        {
+          "type": "event",
+          "timestamp": 1758468600,
+          "value": "7.4",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1758740400,
+          "value": "6.5",
+          "uniqueTournamentId": 21
+        },
+        {
+          "type": "event",
+          "timestamp": 1759073400,
+          "value": "6.5",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1759345200,
+          "value": "8.1",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1759586400,
+          "value": "8.5",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1760035500,
+          "value": "7.9",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1760467500,
+          "value": "7.8",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "event",
+          "timestamp": 1760805000,
+          "value": "8.1",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1761073200,
+          "value": "6.7",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1761487200,
+          "value": "6.8",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1761767100,
+          "value": "7.2",
+          "uniqueTournamentId": 21
+        },
+        {
+          "type": "event",
+          "timestamp": 1762009200,
+          "value": "6.7",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1762278300,
+          "value": "7.3",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1762623000,
+          "value": "7.8",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1763063100,
+          "value": "8.1",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "event",
+          "timestamp": 1763312400,
+          "value": "7.1",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "event",
+          "timestamp": 1763915400,
+          "value": "6.9",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1764187200,
+          "value": "6.7",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1764520200,
+          "value": "7.4",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1764790200,
+          "value": "8.2",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1765024200,
+          "value": "6.5",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1765396800,
+          "value": "6.4",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1765656000,
+          "value": "8.5",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1766260800,
+          "value": "6.6",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1766520000,
+          "value": "7.3",
+          "uniqueTournamentId": 21
+        },
+        {
+          "type": "event",
+          "timestamp": 1766847600,
+          "value": "7.7",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1767125700,
+          "value": "6.6",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1767461400,
+          "value": "7.2",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1767902400,
+          "value": "6.6",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1768420800,
+          "value": "6.5",
+          "uniqueTournamentId": 21
+        },
+        {
+          "type": "event",
+          "timestamp": 1768671000,
+          "value": "7.2",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1768939200,
+          "value": "6.9",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1769358600,
+          "value": "7.7",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "injury",
+          "timestamp": 1769684421,
+          "value": "1900803"
+        },
+        {
+          "type": "injury",
+          "timestamp": 1769770821,
+          "value": "2073600"
+        },
+        {
+          "type": "injury",
+          "timestamp": 1769770822,
+          "value": "2073600"
+        },
+        {
+          "type": "injury",
+          "timestamp": 1769770823,
+          "value": "2073600"
+        },
+        {
+          "type": "injury",
+          "timestamp": 1769770824,
+          "value": "2073600"
+        },
+        {
+          "type": "injury",
+          "timestamp": 1769857224,
+          "value": "1987200"
+        },
+        {
+          "type": "missing",
+          "timestamp": 1770148800
+        },
+        {
+          "type": "missing",
+          "timestamp": 1770476400
+        },
+        {
+          "type": "event",
+          "timestamp": 1770926400,
+          "value": "6.4",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1771173000,
+          "value": "7.4",
+          "uniqueTournamentId": 19
+        },
+        {
+          "type": "event",
+          "timestamp": 1771444800,
+          "value": "8.1",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1771777800,
+          "value": "6.4",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1772382600,
+          "value": "7",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1772652600,
+          "value": "7.1",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1772885700,
+          "value": "6.8",
+          "uniqueTournamentId": 19
+        },
+        {
+          "type": "event",
+          "timestamp": 1773251100,
+          "value": "6.3",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1773509400,
+          "value": "6.8",
+          "uniqueTournamentId": 17
+        },
+        {
+          "type": "event",
+          "timestamp": 1773777600,
+          "value": "8.8",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1774197000,
+          "value": "6.4",
+          "uniqueTournamentId": 21
+        },
+        {
+          "type": "missing",
+          "timestamp": 1774640700
+        }
+      ],
+      "uniqueTournamentsMap": {
+        "7": {
+          "name": "UEFA Champions League",
+          "slug": "uefa-champions-league",
+          "primaryColorHex": "#062b5c",
+          "secondaryColorHex": "#086aab",
+          "category": {
+            "name": "Europe",
+            "slug": "europe",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 19,
+            "id": 1465,
+            "flag": "europe",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوروبا",
+                "bn": "ইউরোপ",
+                "hi": "यूरोप",
+                "ru": "Европа"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 1268935,
+          "id": 7,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "উয়েফা চ্যাম্পিয়ন্স লীগ",
+              "ar": "دوري أبطال أوروبا",
+              "hi": "यूईएफए चैंपियंस लीग",
+              "hr": "UEFA Liga prvaka"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "11": {
+          "name": "World Cup Qual. UEFA",
+          "slug": "world-championship-qual-uefa",
+          "primaryColorHex": "#9a1133",
+          "secondaryColorHex": "#c11541",
+          "category": {
+            "name": "Europe",
+            "slug": "europe",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 19,
+            "id": 1465,
+            "flag": "europe",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوروبا",
+                "bn": "ইউরোপ",
+                "hi": "यूरोप",
+                "ru": "Европа"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 207674,
+          "id": 11,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "تصفيات كأس العالم للاتحاد الأوروبي لكرة القدم",
+              "bn": "ওয়ার্ল্ড চ্যাম্পিয়নশিপ কোয়াল. উয়েফা",
+              "hi": "वर्ल्ड चैंपियनशिप क्वालीफाइंग यूईएफए"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "17": {
+          "name": "Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#3c1c5a",
+          "secondaryColorHex": "#f80158",
+          "category": {
+            "name": "England",
+            "slug": "england",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 10,
+            "id": 1,
+            "flag": "england",
+            "alpha2": "EN",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إنجلترا",
+                "bn": "ইংল্যান্ড",
+                "hi": "इंग्लैंड",
+                "ru": "Англия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 1186364,
+          "id": 17,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الدوري الإنجليزي الممتاز",
+              "hi": "प्रिमियर लीग",
+              "bn": "প্রিমিয়ার লীগ"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "19": {
+          "name": "FA Cup",
+          "slug": "fa-cup",
+          "primaryColorHex": "#bc1821",
+          "secondaryColorHex": "#e60411",
+          "category": {
+            "name": "England",
+            "slug": "england",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 10,
+            "id": 1,
+            "flag": "england",
+            "alpha2": "EN",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إنجلترا",
+                "bn": "ইংল্যান্ড",
+                "hi": "इंग्लैंड",
+                "ru": "Англия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 209250,
+          "id": 19,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس الاتحاد الإنجليزي",
+              "bn": "এফএ কাপ",
+              "hi": "एफए कप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "21": {
+          "name": "EFL Cup",
+          "slug": "efl-cup",
+          "primaryColorHex": "#203e93",
+          "secondaryColorHex": "#bc1723",
+          "category": {
+            "name": "England",
+            "slug": "england",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 10,
+            "id": 1,
+            "flag": "england",
+            "alpha2": "EN",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إنجلترا",
+                "bn": "ইংল্যান্ড",
+                "hi": "इंग्लैंड",
+                "ru": "Англия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 158238,
+          "id": 21,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس رابطة الدوري الإنجليزي",
+              "bn": "ইএফএল কাপ",
+              "hi": "ईएफएल कप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "851": {
+          "name": "International Friendly Games",
+          "slug": "int-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 93715,
+          "id": 851,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مباريات ودية دولية",
+              "hi": "इंटरनेशनल फ्रेंडली गेम्स",
+              "bn": "ইন্টারন্যাশনাল ফ্রেন্ডলি গেমস"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "853": {
+          "name": "Club Friendly Games",
+          "slug": "club-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 26523,
+          "id": 853,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "ক্লাব ফ্রেন্ডলি গেমস",
+              "ar": "مباريات ودية للأندية",
+              "hi": "क्लब फ्रेंडली गेम्स"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "1295": {
+          "name": "Emirates Cup",
+          "slug": "emirates-cup",
+          "primaryColorHex": "#67848f",
+          "secondaryColorHex": "#66838e",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 5801,
+          "id": 1295,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس الإمارات",
+              "bn": "এমিরেটস কাপ",
+              "hi": "एमिरेट्स कप"
+            },
+            "shortNameTranslation": {}
+          }
+        }
+      },
+      "hasPentagon": true,
+      "hasSeasonStatistics": true
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/player/kylian-mbappe/826643",
+    "data": {
+      "player": {
+        "name": "Kylian Mbappé",
+        "slug": "kylian-mbappe",
+        "shortName": "K. Mbappé",
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "LaLiga",
+            "slug": "laliga",
+            "category": {
+              "name": "Spain",
+              "slug": "spain",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 9,
+              "country": {
+                "alpha2": "ES",
+                "alpha3": "ESP",
+                "name": "Spain",
+                "slug": "spain"
+              },
+              "id": 32,
+              "flag": "spain",
+              "alpha2": "ES",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إسبانيا",
+                  "hi": "स्पेन",
+                  "bn": "স্পেন",
+                  "ru": "Испания"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "uniqueTournament": {
+              "name": "LaLiga",
+              "slug": "laliga",
+              "primaryColorHex": "#2f4a89",
+              "secondaryColorHex": "#f4a32e",
+              "category": {
+                "name": "Spain",
+                "slug": "spain",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "priority": 9,
+                "country": {
+                  "alpha2": "ES",
+                  "alpha3": "ESP",
+                  "name": "Spain",
+                  "slug": "spain"
+                },
+                "id": 32,
+                "flag": "spain",
+                "alpha2": "ES",
+                "fieldTranslations": {
+                  "nameTranslation": {
+                    "ar": "إسبانيا",
+                    "hi": "स्पेन",
+                    "bn": "স্পেন",
+                    "ru": "Испания"
+                  },
+                  "shortNameTranslation": {}
+                }
+              },
+              "userCount": 834329,
+              "country": {},
+              "id": 8,
+              "displayInverseHomeAwayTeams": false,
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "الدوري الإسباني",
+                  "hi": "ला लिगा",
+                  "bn": "লা লীগা"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "priority": 699,
+            "isLive": false,
+            "id": 36,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "hi": "ला लीगा",
+                "ar": "الدوري الإسباني",
+                "bn": "লা লীগা"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "primaryUniqueTournament": {
+            "name": "LaLiga",
+            "slug": "laliga",
+            "primaryColorHex": "#2f4a89",
+            "secondaryColorHex": "#f4a32e",
+            "category": {
+              "name": "Spain",
+              "slug": "spain",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "priority": 9,
+              "country": {
+                "alpha2": "ES",
+                "alpha3": "ESP",
+                "name": "Spain",
+                "slug": "spain"
+              },
+              "id": 32,
+              "flag": "spain",
+              "alpha2": "ES",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إسبانيا",
+                  "hi": "स्पेन",
+                  "bn": "স্পেন",
+                  "ru": "Испания"
+                },
+                "shortNameTranslation": {}
+              }
+            },
+            "userCount": 834329,
+            "country": {},
+            "id": 8,
+            "displayInverseHomeAwayTeams": false,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الدوري الإسباني",
+                "hi": "ला लिगा",
+                "bn": "লা লীগা"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 7317389,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "ES",
+            "alpha3": "ESP",
+            "name": "Spain",
+            "slug": "spain"
+          },
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "jerseyNumber": "10",
+        "height": 180,
+        "dateOfBirth": "1998-12-20T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 1936576,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "FR",
+          "alpha3": "FRA",
+          "name": "France",
+          "slug": "france"
+        },
+        "id": 826643,
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 914112000,
+        "proposedMarketValue": 212000000,
+        "proposedMarketValueRaw": {
+          "value": 212000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيليان مبابي",
+            "bn": "কিলিয়ান এমবাপ্পে",
+            "hi": "किलियन एमबाप्पे"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. مبابي",
+            "bn": "কে. এমবাপ্পে",
+            "hi": "के. एमबाप्पे"
+          }
+        }
+      },
+      "transfers": [
+        {
+          "player": {
+            "name": "Kylian Mbappé",
+            "slug": "kylian-mbappe",
+            "shortName": "K. Mbappé",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 1936576,
+            "gender": "M",
+            "id": 826643,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كيليان مبابي",
+                "bn": "কিলিয়ান এমবাপ্পে",
+                "hi": "किलियन एमबाप्पे"
+              },
+              "shortNameTranslation": {
+                "ar": "ك. مبابي",
+                "bn": "কে. এমবাপ্পে",
+                "hi": "के. एमबाप्पे"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Paris Saint-Germain",
+            "slug": "paris-saint-germain",
+            "shortName": "PSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3064836,
+            "nameCode": "PSG",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1644,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#ff1541",
+              "text": "#ff1541"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باريس سان جيرمان",
+                "hi": "पेरिस सेंट-जर्मेन",
+                "ru": "Пари Сен-Жермен"
+              },
+              "shortNameTranslation": {
+                "bn": "পিএসজি",
+                "hi": "पीएसजी"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7317389,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "fromTeamName": "Paris Saint-Germain",
+          "toTeamName": "Real Madrid",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "Free",
+          "id": 2038037,
+          "transferDateTimestamp": 1719792000,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Kylian Mbappé",
+            "slug": "kylian-mbappe",
+            "shortName": "K. Mbappé",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 1936576,
+            "gender": "M",
+            "id": 826643,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كيليان مبابي",
+                "bn": "কিলিয়ান এমবাপ্পে",
+                "hi": "किलियन एमबाप्पे"
+              },
+              "shortNameTranslation": {
+                "ar": "ك. مبابي",
+                "bn": "কে. এমবাপ্পে",
+                "hi": "के. एमबाप्पे"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "AS Monaco",
+            "slug": "as-monaco",
+            "shortName": "AS Monaco",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 510131,
+            "nameCode": "ASM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1653,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "نادي موناكو",
+                "bn": "এএস মোনাকো",
+                "hi": "एएस मोनाको",
+                "ru": "Монако"
+              },
+              "shortNameTranslation": {
+                "ar": "موناكو"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Paris Saint-Germain",
+            "slug": "paris-saint-germain",
+            "shortName": "PSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3064836,
+            "nameCode": "PSG",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1644,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#ff1541",
+              "text": "#ff1541"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باريس سان جيرمان",
+                "hi": "पेरिस सेंट-जर्मेन",
+                "ru": "Пари Сен-Жермен"
+              },
+              "shortNameTranslation": {
+                "bn": "পিএসজি",
+                "hi": "पीएसजी"
+              }
+            }
+          },
+          "fromTeamName": "AS Monaco",
+          "toTeamName": "Paris Saint-Germain",
+          "type": 3,
+          "transferFee": 180000000,
+          "transferFeeDescription": "180M €",
+          "id": 768460,
+          "transferDateTimestamp": 1530403200,
+          "transferFeeRaw": {
+            "value": 180000000,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Kylian Mbappé",
+            "slug": "kylian-mbappe",
+            "shortName": "K. Mbappé",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 1936576,
+            "gender": "M",
+            "id": 826643,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كيليان مبابي",
+                "bn": "কিলিয়ান এমবাপ্পে",
+                "hi": "किलियन एमबाप्पे"
+              },
+              "shortNameTranslation": {
+                "ar": "ك. مبابي",
+                "bn": "কে. এমবাপ্পে",
+                "hi": "के. एमबाप्पे"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "Paris Saint-Germain",
+            "slug": "paris-saint-germain",
+            "shortName": "PSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3064836,
+            "nameCode": "PSG",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1644,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#ff1541",
+              "text": "#ff1541"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باريس سان جيرمان",
+                "hi": "पेरिस सेंट-जर्मेन",
+                "ru": "Пари Сен-Жермен"
+              },
+              "shortNameTranslation": {
+                "bn": "পিএসজি",
+                "hi": "पीएसजी"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "AS Monaco",
+            "slug": "as-monaco",
+            "shortName": "AS Monaco",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 510131,
+            "nameCode": "ASM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1653,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "نادي موناكو",
+                "bn": "এএস মোনাকো",
+                "hi": "एएस मोनाको",
+                "ru": "Монако"
+              },
+              "shortNameTranslation": {
+                "ar": "موناكو"
+              }
+            }
+          },
+          "fromTeamName": "Paris Saint-Germain",
+          "toTeamName": "AS Monaco",
+          "type": 2,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 547448,
+          "transferDateTimestamp": 1530316800,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Kylian Mbappé",
+            "slug": "kylian-mbappe",
+            "shortName": "K. Mbappé",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 1936576,
+            "gender": "M",
+            "id": 826643,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كيليان مبابي",
+                "bn": "কিলিয়ান এমবাপ্পে",
+                "hi": "किलियन एमबाप्पे"
+              },
+              "shortNameTranslation": {
+                "ar": "ك. مبابي",
+                "bn": "কে. এমবাপ্পে",
+                "hi": "के. एमबाप्पे"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "AS Monaco",
+            "slug": "as-monaco",
+            "shortName": "AS Monaco",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 510131,
+            "nameCode": "ASM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1653,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "نادي موناكو",
+                "bn": "এএস মোনাকো",
+                "hi": "एएस मोनाको",
+                "ru": "Монако"
+              },
+              "shortNameTranslation": {
+                "ar": "موناكو"
+              }
+            }
+          },
+          "transferTo": {
+            "name": "Paris Saint-Germain",
+            "slug": "paris-saint-germain",
+            "shortName": "PSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3064836,
+            "nameCode": "PSG",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1644,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#ff1541",
+              "text": "#ff1541"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باريس سان جيرمان",
+                "hi": "पेरिस सेंट-जर्मेन",
+                "ru": "Пари Сен-Жермен"
+              },
+              "shortNameTranslation": {
+                "bn": "পিএসজি",
+                "hi": "पीएसजी"
+              }
+            }
+          },
+          "fromTeamName": "AS Monaco",
+          "toTeamName": "Paris Saint-Germain",
+          "type": 1,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 389743,
+          "transferDateTimestamp": 1504137600,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        },
+        {
+          "player": {
+            "name": "Kylian Mbappé",
+            "slug": "kylian-mbappe",
+            "shortName": "K. Mbappé",
+            "position": "F",
+            "jerseyNumber": "10",
+            "userCount": 1936576,
+            "gender": "M",
+            "id": 826643,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كيليان مبابي",
+                "bn": "কিলিয়ান এমবাপ্পে",
+                "hi": "किलियन एमबाप्पे"
+              },
+              "shortNameTranslation": {
+                "ar": "ك. مبابي",
+                "bn": "কে. এমবাপ্পে",
+                "hi": "के. एमबाप्पे"
+              }
+            }
+          },
+          "transferFrom": {
+            "name": "AS Monaco U19",
+            "slug": "as-monaco-u19",
+            "shortName": "AS Monaco U19",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2961,
+            "nameCode": "ASM",
+            "disabled": false,
+            "national": false,
+            "parentTeam": {
+              "name": "AS Monaco",
+              "slug": "as-monaco",
+              "shortName": "AS Monaco",
+              "gender": "M",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "userCount": 510131,
+              "nameCode": "ASM",
+              "disabled": false,
+              "national": false,
+              "type": 0,
+              "id": 1653,
+              "teamColors": {
+                "primary": "#ffffff",
+                "secondary": "#ff0000",
+                "text": "#ff0000"
+              },
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "نادي موناكو",
+                  "bn": "এএস মোনাকো",
+                  "hi": "एएस मोनाको",
+                  "ru": "Монако"
+                },
+                "shortNameTranslation": {
+                  "ar": "موناكو"
+                }
+              }
+            },
+            "type": 0,
+            "id": 174568,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "موناكو تحت 19",
+                "hi": "एएस मोनाको ऍफ़सी U19",
+                "ru": "ФК Монако U19"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "transferTo": {
+            "name": "AS Monaco",
+            "slug": "as-monaco",
+            "shortName": "AS Monaco",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 510131,
+            "nameCode": "ASM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 1653,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "نادي موناكو",
+                "bn": "এএস মোনাকো",
+                "hi": "एएस मोनाको",
+                "ru": "Монако"
+              },
+              "shortNameTranslation": {
+                "ar": "موناكو"
+              }
+            }
+          },
+          "fromTeamName": "AS Monaco U19",
+          "toTeamName": "AS Monaco",
+          "type": 3,
+          "transferFee": 0,
+          "transferFeeDescription": "-",
+          "id": 1716290,
+          "transferDateTimestamp": 1451606400,
+          "transferFeeRaw": {
+            "value": 0,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "seoContent": {
+        "about": "<p>Kylian Mbappé is 27 years old (Dec 20, 1998), 180 cm tall and plays for Real Madrid.</p><p>Kylian Mbappé prefers to play with right foot. His jersey number is 10.</p><p>Kylian Mbappé career statistics, match ratings, heatmap and goals are available on Sofascore for current and previous seasons. Last player match was FC Bayern München - Real Madrid (4 - 3) and Kylian Mbappé received 8.5 Sofascore rating.</p><p><a href=\"https://www.sofascore.com/football/team/real-madrid/2829\">Real Madrid</a> is playing their next match on Apr 21, 2026, 7:30:00 PM UTC against Real Madrid - Deportivo Alavés in LaLiga.</p><p>If Kylian Mbappé is going to be in Real Madrid lineup, it will be confirmed on Sofascore one hour before the match starts.</p><p>If Kylian Mbappé plays you will also be able to follow his live Sofascore rating, statistics and heatmap. Kylian Mbappé football player profile displays all matches and competitions with statistics for all the matches Kylian Mbappé played in. Most important stats for each competition, including average Sofascore rating, matches played, goals, assists, cards and other relevant data are also displayed.</p>",
+        "description": "Kylian Mbappé profile player page. Goals, matches, stats, player ratings and more.",
+        "heading": "Kylian Mbappé stats, ratings and goals",
+        "title": "Kylian Mbappé stats and ratings | Sofascore"
+      },
+      "lastYearSummary": [
+        {
+          "type": "event",
+          "timestamp": 1746360000,
+          "value": "8.6",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1746972900,
+          "value": "8.8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1747251000,
+          "value": "8.8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1747587600,
+          "value": "7.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1748096100,
+          "value": "8.1",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1749150000,
+          "value": "8.4",
+          "uniqueTournamentId": 10783
+        },
+        {
+          "type": "event",
+          "timestamp": 1749387600,
+          "value": "8.4",
+          "uniqueTournamentId": 10783
+        },
+        {
+          "type": "injury",
+          "timestamp": 1750204800,
+          "value": "1983622"
+        },
+        {
+          "type": "missing",
+          "timestamp": 1750618800
+        },
+        {
+          "type": "missing",
+          "timestamp": 1750986000
+        },
+        {
+          "type": "event",
+          "timestamp": 1751396400,
+          "value": "6.9",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1751745600,
+          "value": "7.7",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1752088200,
+          "value": "6.8",
+          "uniqueTournamentId": 357
+        },
+        {
+          "type": "event",
+          "timestamp": 1755018000,
+          "value": "9.4",
+          "uniqueTournamentId": 853
+        },
+        {
+          "type": "event",
+          "timestamp": 1755630000,
+          "value": "8.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1756063800,
+          "value": "9.2",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1756582200,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1757097900,
+          "value": "7.4",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "event",
+          "timestamp": 1757443500,
+          "value": "8.3",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "event",
+          "timestamp": 1757772900,
+          "value": "8.4",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1758049200,
+          "value": "8.1",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1758377700,
+          "value": "8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1758655800,
+          "value": "8.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1758982500,
+          "value": "8.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1759250700,
+          "value": "9.6",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1759604400,
+          "value": "8.6",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1760121900,
+          "value": "9.7",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "event",
+          "timestamp": 1760900400,
+          "value": "7.8",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1761159600,
+          "value": "6.7",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1761491700,
+          "value": "7.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1762027200,
+          "value": "7.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1762286400,
+          "value": "7.3",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1762701300,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1763063100,
+          "value": "8.3",
+          "uniqueTournamentId": 11
+        },
+        {
+          "type": "missing",
+          "timestamp": 1763312400
+        },
+        {
+          "type": "event",
+          "timestamp": 1763928000,
+          "value": "8.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1764187200,
+          "value": "10",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1764532800,
+          "value": "6.6",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1764784800,
+          "value": "10",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "injury",
+          "timestamp": 1765105221,
+          "value": "648000"
+        },
+        {
+          "type": "event",
+          "timestamp": 1765137600,
+          "value": "7.3",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1765742400,
+          "value": "7.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1766001600,
+          "value": "8",
+          "uniqueTournamentId": 329
+        },
+        {
+          "type": "event",
+          "timestamp": 1766260800,
+          "value": "7.6",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "injury",
+          "timestamp": 1767178822,
+          "value": "1080000"
+        },
+        {
+          "type": "missing",
+          "timestamp": 1767539700
+        },
+        {
+          "type": "missing",
+          "timestamp": 1767898800
+        },
+        {
+          "type": "event",
+          "timestamp": 1768158000,
+          "value": "6.9",
+          "uniqueTournamentId": 213
+        },
+        {
+          "type": "missing",
+          "timestamp": 1768420800
+        },
+        {
+          "type": "event",
+          "timestamp": 1768654800,
+          "value": "7.6",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1768939200,
+          "value": "9.4",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1769284800,
+          "value": "8.5",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1769630400,
+          "value": "8.8",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1769950800,
+          "value": "6.9",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1770580800,
+          "value": "6.9",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1771358400,
+          "value": "5.8",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1771695000,
+          "value": "6.5",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "injury",
+          "timestamp": 1772017247,
+          "value": "1857575"
+        },
+        {
+          "type": "missing",
+          "timestamp": 1772049600
+        },
+        {
+          "type": "missing",
+          "timestamp": 1772481600
+        },
+        {
+          "type": "missing",
+          "timestamp": 1772827200
+        },
+        {
+          "type": "missing",
+          "timestamp": 1773259200
+        },
+        {
+          "type": "event",
+          "timestamp": 1773777600,
+          "value": "6.5",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1774209600,
+          "value": "6.9",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1774555200,
+          "value": "7.2",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1774810800,
+          "value": "6.5",
+          "uniqueTournamentId": 851
+        },
+        {
+          "type": "event",
+          "timestamp": 1775312100,
+          "value": "6.7",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1775588400,
+          "value": "7.9",
+          "uniqueTournamentId": 7
+        },
+        {
+          "type": "event",
+          "timestamp": 1775847600,
+          "value": "6.1",
+          "uniqueTournamentId": 8
+        },
+        {
+          "type": "event",
+          "timestamp": 1776279600,
+          "value": "8.5",
+          "uniqueTournamentId": 7
+        }
+      ],
+      "uniqueTournamentsMap": {
+        "7": {
+          "name": "UEFA Champions League",
+          "slug": "uefa-champions-league",
+          "primaryColorHex": "#062b5c",
+          "secondaryColorHex": "#086aab",
+          "category": {
+            "name": "Europe",
+            "slug": "europe",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 19,
+            "id": 1465,
+            "flag": "europe",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوروبا",
+                "bn": "ইউরোপ",
+                "hi": "यूरोप",
+                "ru": "Европа"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 1268935,
+          "id": 7,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "উয়েফা চ্যাম্পিয়ন্স লীগ",
+              "ar": "دوري أبطال أوروبا",
+              "hi": "यूईएफए चैंपियंस लीग",
+              "hr": "UEFA Liga prvaka"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "8": {
+          "name": "LaLiga",
+          "slug": "laliga",
+          "primaryColorHex": "#2f4a89",
+          "secondaryColorHex": "#f4a32e",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 9,
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إسبانيا",
+                "bn": "স্পেন",
+                "hi": "स्पेन",
+                "ru": "Испания"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 834329,
+          "id": 8,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الدوري الإسباني",
+              "hi": "ला लिगा",
+              "bn": "লা লীগা"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "11": {
+          "name": "World Cup Qual. UEFA",
+          "slug": "world-championship-qual-uefa",
+          "primaryColorHex": "#9a1133",
+          "secondaryColorHex": "#c11541",
+          "category": {
+            "name": "Europe",
+            "slug": "europe",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 19,
+            "id": 1465,
+            "flag": "europe",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوروبا",
+                "bn": "ইউরোপ",
+                "hi": "यूरोप",
+                "ru": "Европа"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 207674,
+          "id": 11,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "تصفيات كأس العالم للاتحاد الأوروبي لكرة القدم",
+              "bn": "ওয়ার্ল্ড চ্যাম্পিয়নশিপ কোয়াল. উয়েফা",
+              "hi": "वर्ल्ड चैंपियनशिप क्वालीफाइंग यूईएफए"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "213": {
+          "name": "Supercopa de España",
+          "slug": "supercopa-de-espana",
+          "primaryColorHex": "#daac6a",
+          "secondaryColorHex": "#4a919d",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 9,
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إسبانيا",
+                "bn": "স্পেন",
+                "hi": "स्पेन",
+                "ru": "Испания"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 106811,
+          "id": 213,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس السوبر الإسباني",
+              "bn": "স্প্যানিশ সুপার কাপ",
+              "hi": "सुपरकोपा डे एस्पाना"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "329": {
+          "name": "Copa del Rey",
+          "slug": "copa-del-rey",
+          "primaryColorHex": "#221C35",
+          "secondaryColorHex": "#fe0235",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 9,
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إسبانيا",
+                "bn": "স্পেন",
+                "hi": "स्पेन",
+                "ru": "Испания"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 183884,
+          "id": 329,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كأس ملك إسبانيا",
+              "bn": "কোপা দেল রে",
+              "hi": "कोपा डेल रे"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "357": {
+          "name": "FIFA Club World Cup",
+          "slug": "club-world-championship",
+          "primaryColorHex": "#8d1536",
+          "secondaryColorHex": "#0bbda4",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 574013,
+          "id": 357,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "بطولة العالم للأندية",
+              "bn": "ক্লাব ওয়ার্ল্ড চ্যাম্পিয়নশিপ",
+              "hi": "क्लब वर्ल्ड चैंपियनशिप"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "851": {
+          "name": "International Friendly Games",
+          "slug": "int-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 93715,
+          "id": 851,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مباريات ودية دولية",
+              "hi": "इंटरनेशनल फ्रेंडली गेम्स",
+              "bn": "ইন্টারন্যাশনাল ফ্রেন্ডলি গেমস"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "853": {
+          "name": "Club Friendly Games",
+          "slug": "club-friendly-games",
+          "primaryColorHex": "#25497d",
+          "secondaryColorHex": "#d38f1d",
+          "category": {
+            "name": "World",
+            "slug": "world",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 20,
+            "id": 1468,
+            "flag": "international",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "العالم",
+                "bn": "বিশ্ব",
+                "hi": "विश्व",
+                "ru": "Мир"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 26523,
+          "id": 853,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "ক্লাব ফ্রেন্ডলি গেমস",
+              "ar": "مباريات ودية للأندية",
+              "hi": "क्लब फ्रेंडली गेम्स"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "10783": {
+          "name": "UEFA Nations League",
+          "slug": "uefa-nations-league",
+          "primaryColorHex": "#3a4179",
+          "secondaryColorHex": "#e5a422",
+          "category": {
+            "name": "Europe",
+            "slug": "europe",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 19,
+            "id": 1465,
+            "flag": "europe",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوروبا",
+                "bn": "ইউরোপ",
+                "hi": "यूरोप",
+                "ru": "Европа"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 264388,
+          "id": 10783,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري أمم أوروبا",
+              "bn": "উয়েফা নেশনস লিগ",
+              "hi": "यूईएफए नेशंस लीग"
+            },
+            "shortNameTranslation": {}
+          }
+        }
+      },
+      "hasPentagon": true,
+      "hasSeasonStatistics": true
+    }
+  }
+]
