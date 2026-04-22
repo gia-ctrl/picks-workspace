@@ -1,0 +1,177 @@
+sport,league,team,team_score
+Football,Spain,Barcelona,10.0
+Football,Premier League,Manchester City,10.0
+Football,Bundesliga,Bayern Munich,10.0
+Football,Italy,Milan,10.0
+Football,MLS,Inter Miami,10.0
+Football,France,Paris Saint-Germain,10.0
+Football,Saudi Arabia,Al Nassr,10.0
+Football,Argentina,Boca Juniors,10.0
+Football,England Championship,Coventry City,10.0
+Football,Liga MX Mexico,Club América,10.0
+Football,Spain,Real Madrid,9.0
+Football,Premier League,Liverpool,9.0
+Football,Bundesliga,Borussia Dortmund,9.0
+Football,Italy,Juventus,9.0
+Football,MLS,LAFC,9.0
+Football,France,Marseille,9.0
+Football,Saudi Arabia,Al Hilal,9.0
+Football,Argentina,River Plate,9.0
+Football,England Championship,Millwall,9.0
+Football,Liga MX Mexico,Chivas (Guadalajara),9.0
+Football,Spain,Villarreal,8.0
+Football,Premier League,Arsenal,8.0
+Football,Bundesliga,Bayer Leverkusen,8.0
+Football,Italy,Inter,8.0
+Football,MLS,LA Galaxy,8.0
+Football,France,Lyon,8.0
+Football,Saudi Arabia,Al Ittihad,8.0
+Football,Argentina,Racing Club,8.0
+Football,England Championship,Ipswich Town,8.0
+Football,Liga MX Mexico,Tigres UANL,8.0
+Football,Spain,Atlético Madrid,7.0
+Football,Premier League,Manchester United,7.0
+Football,Bundesliga,RB Leipzig,7.0
+Football,Italy,Napoli,7.0
+Football,MLS,Atlanta United,7.0
+Football,France,Monaco,7.0
+Football,Saudi Arabia,Al Ahli,7.0
+Football,Argentina,Independiente,7.0
+Football,England Championship,Southampton,7.0
+Football,Liga MX Mexico,Monterrey,7.0
+Football,Spain,Real Betis,6.0
+Football,Premier League,Chelsea,6.0
+Football,Bundesliga,Stuttgart,6.0
+Football,Italy,Roma,6.0
+Football,MLS,NYCFC,6.0
+Football,France,Lille,6.0
+Football,Saudi Arabia,Al Shabab,6.0
+Football,Argentina,San Lorenzo,6.0
+Football,England Championship,Middlesbrough,6.0
+Football,Liga MX Mexico,Cruz Azul,6.0
+Football,Spain,Celta,5.0
+Football,Premier League,Aston Villa,5.0
+Football,Bundesliga,Eintracht Frankfurt,5.0
+Football,Italy,Fiorentina,5.0
+Football,MLS,Seattle Sounders,5.0
+Football,France,Nice,5.0
+Football,Saudi Arabia,Al Ettifaq,5.0
+Football,Argentina,Estudiantes,5.0
+Football,England Championship,Wrexham,5.0
+Football,Liga MX Mexico,Pumas UNAM,5.0
+Football,Spain,Real Sociedad,4.0
+Football,Premier League,Tottenham,4.0
+Football,Bundesliga,Werder Bremen,4.0
+Football,Italy,Lazio,4.0
+Football,MLS,Portland Timbers,4.0
+Football,France,Rennes,4.0
+Football,Saudi Arabia,Al Taawoun,4.0
+Football,Argentina,Rosario Central,4.0
+Football,England Championship,Hull,4.0
+Football,Liga MX Mexico,León,4.0
+Football,Spain,Valencia,3.0
+Football,Premier League,Newcastle,3.0
+Football,Bundesliga,Freiburg,3.0
+Football,Italy,Atalanta,3.0
+Football,MLS,Austin FC,3.0
+Football,France,Lens,3.0
+Football,Saudi Arabia,Al Fateh,3.0
+Football,Argentina,Newell’s Old Boys,3.0
+Football,England Championship,Derby,3.0
+Football,Liga MX Mexico,Pachuca,3.0
+Football,Spain,Athletic Club,2.0
+Football,Premier League,Leeds,2.0
+Football,Bundesliga,Borussia Mönchengladbach,2.0
+Football,Italy,Parma,2.0
+Football,MLS,Columbus Crew,2.0
+Football,France,Montpellier,2.0
+Football,Saudi Arabia,Abha,2.0
+Football,Argentina,Talleres,2.0
+Football,England Championship,Norwich,2.0
+Football,Liga MX Mexico,Toluca,2.0
+Football,Spain,Getafe,1.0
+Football,Premier League,West Ham,1.0
+Football,Bundesliga,St. Pauli,1.0
+Football,Italy,Bologna,1.0
+Football,MLS,FC Cincinnati,1.0
+Football,France,Toulouse,1.0
+Football,Saudi Arabia,Al Riyadh,1.0
+Football,Argentina,Lanús,1.0
+Football,England Championship,Swansea,1.0
+Football,Liga MX Mexico,Santos Laguna,1.0
+basketball,nba,Los Angeles Lakers,10.0
+basketball,EuroLeague,Real Madrid,10.0
+basketball,ACB - Spain,Real Madrid,10.0
+basketball,Lega A Basket - Italy,Olimpia Milano,10.0
+basketball,nba,Golden State Warriors,9.0
+basketball,EuroLeague,Barcelona,9.0
+basketball,ACB - Spain,Barcelona,9.0
+basketball,Lega A Basket - Italy,Virtus Bologna,9.0
+basketball,nba,Dallas Mavericks,8.0
+basketball,EuroLeague,Fenerbahçe,8.0
+basketball,ACB - Spain,Baskonia,8.0
+basketball,Lega A Basket - Italy,Reyer Venezia,8.0
+basketball,nba,Milwaukee Bucks,7.0
+basketball,EuroLeague,Anadolu Efes,7.0
+basketball,ACB - Spain,Valencia,7.0
+basketball,Lega A Basket - Italy,Brescia,7.0
+basketball,nba,Denver Nuggets,6.0
+basketball,EuroLeague,Olympiacos,6.0
+basketball,ACB - Spain,Unicaja Málaga,6.0
+basketball,Lega A Basket - Italy,Tortona,6.0
+basketball,nba,Boston Celtics,5.0
+basketball,EuroLeague,Panathinaikos,5.0
+basketball,ACB - Spain,Joventut Badalona,5.0
+basketball,Lega A Basket - Italy,Trento,5.0
+basketball,nba,Phoenix Suns,4.0
+basketball,EuroLeague,Maccabi Tel Aviv,4.0
+basketball,ACB - Spain,Gran Canaria,4.0
+basketball,Lega A Basket - Italy,Sassari,4.0
+basketball,nba,Philadelphia 76ers,3.0
+basketball,EuroLeague,Partizan,3.0
+basketball,ACB - Spain,Tenerife,3.0
+basketball,Lega A Basket - Italy,Varese,3.0
+basketball,nba,Oklahoma City Thunder,2.0
+basketball,EuroLeague,Virtus Bologna,2.0
+basketball,ACB - Spain,Zaragoza,2.0
+basketball,Lega A Basket - Italy,Reggio Emilia,2.0
+basketball,nba,Sacramento Kings,1.0
+basketball,EuroLeague,AS Monaco,1.0
+basketball,ACB - Spain,Murcia,1.0
+basketball,Lega A Basket - Italy,Napoli Basket,1.0
+Cricket,IPL,Mumbai Indians (MI),10.0
+Cricket,Cricket - ILT20,MI Emirates,10.0
+Cricket,IPL,Chennai Super Kings (CSK),9.0
+Cricket,Cricket - ILT20,Dubai Capitals,9.0
+Cricket,IPL,Royal Challengers Bangalore (RCB),8.0
+Cricket,Cricket - ILT20,Gulf Giants,8.0
+Cricket,IPL,Kolkata Knight Riders (KKR),7.0
+Cricket,Cricket - ILT20,Abu Dhabi Knight Riders,7.0
+Cricket,IPL,Delhi Capitals (DC),6.0
+Cricket,Cricket - ILT20,Desert Vipers,6.0
+Cricket,IPL,Rajasthan Royals (RR),5.0
+Cricket,Cricket - ILT20,Sharjah Warriors,5.0
+Cricket,IPL,Sunrisers Hyderabad (SRH),4.0
+Cricket,IPL,Punjab Kings (PBKS),3.0
+Cricket,IPL,Lucknow Super Giants (LSG),2.0
+Cricket,IPL,Gujarat Titans (GT),1.0
+Hockey,NHL,Toronto Maple Leafs,10.0
+Hockey,NHL,Edmonton Oilers,9.0
+Hockey,NHL,Colorado Avalanche,8.0
+Hockey,NHL,Vegas Golden Knights,7.0
+Hockey,NHL,New York Rangers,6.0
+Hockey,NHL,Boston Bruins,5.0
+Hockey,NHL,Tampa Bay Lightning,4.0
+Hockey,NHL,Florida Panthers,3.0
+Hockey,NHL,New Jersey Devils,2.0
+Hockey,NHL,Dallas Stars,1.0
+Baseball,MLB,Los Angeles Dodgers,10.0
+Baseball,MLB,New York Yankees,9.0
+Baseball,MLB,Atlanta Braves,8.0
+Baseball,MLB,Houston Astros,7.0
+Baseball,MLB,Philadelphia Phillies,6.0
+Baseball,MLB,Texas Rangers,5.0
+Baseball,MLB,San Diego Padres,4.0
+Baseball,MLB,Toronto Blue Jays,3.0
+Baseball,MLB,Chicago Cubs,2.0
+Baseball,MLB,Seattle Mariners,1.0
