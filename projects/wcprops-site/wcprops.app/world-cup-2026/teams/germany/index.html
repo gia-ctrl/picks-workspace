@@ -683,10 +683,10 @@
     </div>
 
     <!-- CTA -->
-    <div class="cta-block">
-      <h3>World Cup player props are coming</h3>
-      <p>Get early access when World Cup lines on players go live.</p>
-      <a href="#notify-form" class="cta-btn">Join the early access list →</a>
+    <div class="cta-block" style="background:#e6f9f3;border:2px solid #00b894;">
+      <h3 style="color:#009975;">World Cup player props are live 🟢</h3>
+      <p>Pick More/Less on World Cup players. On-chain settlement. Fixed multipliers.</p>
+      <a href="https://go.getpicks.app/r/aeTclrWUQEdcYlxR" class="cta-btn" target="_blank" rel="noopener">Play on Picks →</a>
     </div>
 
     <!-- Related -->
@@ -718,37 +718,10 @@
       </a>
     </div>
 
-    <!-- Email Capture -->
-    <div style="margin:2rem 0;padding:1.5rem;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius, 20px);box-shadow:0 1px 2px rgba(0,0,0,0.03);text-align:center;">
-      <div style="font-size:1rem;font-weight:700;margin-bottom:0.3rem;">Get notified when player props go live</div>
-      <div style="font-size:0.8rem;color:#8c8c8c;margin-bottom:0.8rem;">We'll email you when prop markets open for World Cup 2026</div>
-      <form id="notify-form" style="display:flex;gap:0.5rem;max-width:400px;margin:0 auto;">
-        <input type="email" id="notify-email" placeholder="your@email.com" required style="flex:1;padding:0.6rem 1rem;border:1.5px solid #ebebeb;border-radius:50px;font-size:0.85rem;font-family:inherit;outline:none;" onfocus="this.style.borderColor='#00b894'" onblur="this.style.borderColor='#ebebeb'">
-        <button type="submit" style="background:#00b894;color:white;border:none;padding:0.6rem 1.5rem;border-radius:50px;font-size:0.85rem;font-weight:700;cursor:pointer;font-family:inherit;">Notify Me</button>
-      </form>
-      <div id="notify-success" style="display:none;margin-top:0.8rem;font-size:0.85rem;color:#009975;font-weight:600;"></div>
+    <!-- Picks CTA -->
+    <div style="text-align:center;margin:2rem 0;">
+      <a href="https://go.getpicks.app/r/aeTclrWUQEdcYlxR" target="_blank" rel="noopener" style="display:inline-block;background:#00b894;color:white;padding:0.75rem 2.5rem;border-radius:50px;font-weight:700;font-size:0.95rem;text-decoration:none;">Play on Picks →</a>
     </div>
-    <script>
-    document.getElementById('notify-form').addEventListener('submit', function(e) {
-      e.preventDefault();
-      var email = document.getElementById('notify-email').value;
-      var btn = this.querySelector('button');
-      btn.textContent = '...';
-      btn.disabled = true;
-      fetch('https://formspree.io/f/mbdzpyjb', {
-        method: 'POST',
-        headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
-        body: JSON.stringify({email: email, source: 'wcprops.app', page: window.location.pathname})
-      }).then(function(r) {
-        document.getElementById('notify-form').style.display = 'none';
-        document.getElementById('notify-success').style.display = 'block';
-        document.getElementById('notify-success').textContent = "You're on the list! We'll notify you when player props go live.";
-      }).catch(function() {
-        btn.textContent = 'Notify Me';
-        btn.disabled = false;
-      });
-    });
-    </script>
 
   </article>
 
